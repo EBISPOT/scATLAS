@@ -1,0 +1,632 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_label	BFO:0000004	rdfs:label		
+ERROR	missing_label	BFO:0000020	rdfs:label		
+ERROR	missing_label	BFO:0000040	rdfs:label		
+ERROR	missing_label	CARO:0000003	rdfs:label		
+ERROR	missing_label	CARO:0000006	rdfs:label		
+ERROR	missing_label	CARO:0000014	rdfs:label		
+ERROR	missing_label	CL:0000000	rdfs:label		
+ERROR	missing_label	CL:0000001	rdfs:label		
+ERROR	missing_label	CL:0000003	rdfs:label		
+ERROR	missing_label	CL:0000010	rdfs:label		
+ERROR	missing_label	CL:0000066	rdfs:label		
+ERROR	missing_label	CL:0000082	rdfs:label		
+ERROR	missing_label	CL:0000221	rdfs:label		
+ERROR	missing_label	CL:0000223	rdfs:label		
+ERROR	missing_label	CL:0000225	rdfs:label		
+ERROR	missing_label	CL:0000255	rdfs:label		
+ERROR	missing_label	CL:0000362	rdfs:label		
+ERROR	missing_label	CL:0000548	rdfs:label		
+ERROR	missing_label	CL:0000578	rdfs:label		
+ERROR	missing_label	CL:0001034	rdfs:label		
+ERROR	missing_label	CL:0002076	rdfs:label		
+ERROR	missing_label	CL:0002077	rdfs:label		
+ERROR	missing_label	CL:0002159	rdfs:label		
+ERROR	missing_label	CL:0002242	rdfs:label		
+ERROR	missing_label	CL:0002251	rdfs:label		
+ERROR	missing_label	CL:0002319	rdfs:label		
+ERROR	missing_label	CL:0002320	rdfs:label		
+ERROR	missing_label	CL:0002321	rdfs:label		
+ERROR	missing_label	CL:0002368	rdfs:label		
+ERROR	missing_label	CL:0002371	rdfs:label		
+ERROR	missing_label	CL:0002632	rdfs:label		
+ERROR	missing_label	GO:0005623	rdfs:label		
+ERROR	missing_label	GO:0005634	rdfs:label		
+ERROR	missing_label	GO:0043226	rdfs:label		
+ERROR	missing_label	GO:0043227	rdfs:label		
+ERROR	missing_label	GO:0043229	rdfs:label		
+ERROR	missing_label	GO:0043231	rdfs:label		
+ERROR	missing_label	GO:0044424	rdfs:label		
+ERROR	missing_label	GO:0044464	rdfs:label		
+ERROR	missing_label	PATO:0001241	rdfs:label		
+ERROR	missing_label	PATO:0001396	rdfs:label		
+ERROR	missing_label	PATO:0001404	rdfs:label		
+ERROR	missing_label	PATO:0001405	rdfs:label		
+ERROR	missing_label	PATO:0002505	rdfs:label		
+ERROR	missing_label	UBERON:0000010	rdfs:label		
+ERROR	missing_label	UBERON:0000025	rdfs:label		
+ERROR	missing_label	UBERON:0000060	rdfs:label		
+ERROR	missing_label	UBERON:0000061	rdfs:label		
+ERROR	missing_label	UBERON:0000062	rdfs:label		
+ERROR	missing_label	UBERON:0000064	rdfs:label		
+ERROR	missing_label	UBERON:0000065	rdfs:label		
+ERROR	missing_label	UBERON:0000072	rdfs:label		
+ERROR	missing_label	UBERON:0000075	rdfs:label		
+ERROR	missing_label	UBERON:0000076	rdfs:label		
+ERROR	missing_label	UBERON:0000077	rdfs:label		
+ERROR	missing_label	UBERON:0000078	rdfs:label		
+ERROR	missing_label	UBERON:0000114	rdfs:label		
+ERROR	missing_label	UBERON:0000115	rdfs:label		
+ERROR	missing_label	UBERON:0000117	rdfs:label		
+ERROR	missing_label	UBERON:0000118	rdfs:label		
+ERROR	missing_label	UBERON:0000170	rdfs:label		
+ERROR	missing_label	UBERON:0000171	rdfs:label		
+ERROR	missing_label	UBERON:0000307	rdfs:label		
+ERROR	missing_label	UBERON:0000328	rdfs:label		
+ERROR	missing_label	UBERON:0000383	rdfs:label		
+ERROR	missing_label	UBERON:0000464	rdfs:label		
+ERROR	missing_label	UBERON:0000465	rdfs:label		
+ERROR	missing_label	UBERON:0000466	rdfs:label		
+ERROR	missing_label	UBERON:0000467	rdfs:label		
+ERROR	missing_label	UBERON:0000468	rdfs:label		
+ERROR	missing_label	UBERON:0000475	rdfs:label		
+ERROR	missing_label	UBERON:0000476	rdfs:label		
+ERROR	missing_label	UBERON:0000477	rdfs:label		
+ERROR	missing_label	UBERON:0000479	rdfs:label		
+ERROR	missing_label	UBERON:0000483	rdfs:label		
+ERROR	missing_label	UBERON:0000485	rdfs:label		
+ERROR	missing_label	UBERON:0000486	rdfs:label		
+ERROR	missing_label	UBERON:0000490	rdfs:label		
+ERROR	missing_label	UBERON:0000915	rdfs:label		
+ERROR	missing_label	UBERON:0000922	rdfs:label		
+ERROR	missing_label	UBERON:0000923	rdfs:label		
+ERROR	missing_label	UBERON:0000924	rdfs:label		
+ERROR	missing_label	UBERON:0000925	rdfs:label		
+ERROR	missing_label	UBERON:0000926	rdfs:label		
+ERROR	missing_label	UBERON:0000982	rdfs:label		
+ERROR	missing_label	UBERON:0001004	rdfs:label		
+ERROR	missing_label	UBERON:0001005	rdfs:label		
+ERROR	missing_label	UBERON:0001007	rdfs:label		
+ERROR	missing_label	UBERON:0001009	rdfs:label		
+ERROR	missing_label	UBERON:0001015	rdfs:label		
+ERROR	missing_label	UBERON:0001016	rdfs:label		
+ERROR	missing_label	UBERON:0001017	rdfs:label		
+ERROR	missing_label	UBERON:0001041	rdfs:label		
+ERROR	missing_label	UBERON:0001048	rdfs:label		
+ERROR	missing_label	UBERON:0001434	rdfs:label		
+ERROR	missing_label	UBERON:0001555	rdfs:label		
+ERROR	missing_label	UBERON:0001558	rdfs:label		
+ERROR	missing_label	UBERON:0001630	rdfs:label		
+ERROR	missing_label	UBERON:0002048	rdfs:label		
+ERROR	missing_label	UBERON:0002050	rdfs:label		
+ERROR	missing_label	UBERON:0002090	rdfs:label		
+ERROR	missing_label	UBERON:0002100	rdfs:label		
+ERROR	missing_label	UBERON:0002167	rdfs:label		
+ERROR	missing_label	UBERON:0002168	rdfs:label		
+ERROR	missing_label	UBERON:0002204	rdfs:label		
+ERROR	missing_label	UBERON:0002217	rdfs:label		
+ERROR	missing_label	UBERON:0002329	rdfs:label		
+ERROR	missing_label	UBERON:0002384	rdfs:label		
+ERROR	missing_label	UBERON:0002385	rdfs:label		
+ERROR	missing_label	UBERON:0002416	rdfs:label		
+ERROR	missing_label	UBERON:0002532	rdfs:label		
+ERROR	missing_label	UBERON:0003059	rdfs:label		
+ERROR	missing_label	UBERON:0003077	rdfs:label		
+ERROR	missing_label	UBERON:0003081	rdfs:label		
+ERROR	missing_label	UBERON:0003089	rdfs:label		
+ERROR	missing_label	UBERON:0003102	rdfs:label		
+ERROR	missing_label	UBERON:0003103	rdfs:label		
+ERROR	missing_label	UBERON:0003104	rdfs:label		
+ERROR	missing_label	UBERON:0003258	rdfs:label		
+ERROR	missing_label	UBERON:0003364	rdfs:label		
+ERROR	missing_label	UBERON:0003365	rdfs:label		
+ERROR	missing_label	UBERON:0003570	rdfs:label		
+ERROR	missing_label	UBERON:0003580	rdfs:label		
+ERROR	missing_label	UBERON:0003586	rdfs:label		
+ERROR	missing_label	UBERON:0003831	rdfs:label		
+ERROR	missing_label	UBERON:0003837	rdfs:label		
+ERROR	missing_label	UBERON:0003914	rdfs:label		
+ERROR	missing_label	UBERON:0003929	rdfs:label		
+ERROR	missing_label	UBERON:0004111	rdfs:label		
+ERROR	missing_label	UBERON:0004119	rdfs:label		
+ERROR	missing_label	UBERON:0004120	rdfs:label		
+ERROR	missing_label	UBERON:0004121	rdfs:label		
+ERROR	missing_label	UBERON:0004185	rdfs:label		
+ERROR	missing_label	UBERON:0004253	rdfs:label		
+ERROR	missing_label	UBERON:0004288	rdfs:label		
+ERROR	missing_label	UBERON:0004464	rdfs:label		
+ERROR	missing_label	UBERON:0004479	rdfs:label		
+ERROR	missing_label	UBERON:0004765	rdfs:label		
+ERROR	missing_label	UBERON:0004770	rdfs:label		
+ERROR	missing_label	UBERON:0004802	rdfs:label		
+ERROR	missing_label	UBERON:0004807	rdfs:label		
+ERROR	missing_label	UBERON:0004815	rdfs:label		
+ERROR	missing_label	UBERON:0004873	rdfs:label		
+ERROR	missing_label	UBERON:0004883	rdfs:label		
+ERROR	missing_label	UBERON:0004905	rdfs:label		
+ERROR	missing_label	UBERON:0004906	rdfs:label		
+ERROR	missing_label	UBERON:0004921	rdfs:label		
+ERROR	missing_label	UBERON:0004923	rdfs:label		
+ERROR	missing_label	UBERON:0005090	rdfs:label		
+ERROR	missing_label	UBERON:0005153	rdfs:label		
+ERROR	missing_label	UBERON:0005157	rdfs:label		
+ERROR	missing_label	UBERON:0005177	rdfs:label		
+ERROR	missing_label	UBERON:0005178	rdfs:label		
+ERROR	missing_label	UBERON:0005181	rdfs:label		
+ERROR	missing_label	UBERON:0005256	rdfs:label		
+ERROR	missing_label	UBERON:0005291	rdfs:label		
+ERROR	missing_label	UBERON:0005423	rdfs:label		
+ERROR	missing_label	UBERON:0005597	rdfs:label		
+ERROR	missing_label	UBERON:0005598	rdfs:label		
+ERROR	missing_label	UBERON:0005764	rdfs:label		
+ERROR	missing_label	UBERON:0005769	rdfs:label		
+ERROR	missing_label	UBERON:0005856	rdfs:label		
+ERROR	missing_label	UBERON:0005911	rdfs:label		
+ERROR	missing_label	UBERON:0005944	rdfs:label		
+ERROR	missing_label	UBERON:0006595	rdfs:label		
+ERROR	missing_label	UBERON:0006598	rdfs:label		
+ERROR	missing_label	UBERON:0006601	rdfs:label		
+ERROR	missing_label	UBERON:0006603	rdfs:label		
+ERROR	missing_label	UBERON:0007010	rdfs:label		
+ERROR	missing_label	UBERON:0007026	rdfs:label		
+ERROR	missing_label	UBERON:0007282	rdfs:label		
+ERROR	missing_label	UBERON:0007285	rdfs:label		
+ERROR	missing_label	UBERON:0007376	rdfs:label		
+ERROR	missing_label	UBERON:0007383	rdfs:label		
+ERROR	missing_label	UBERON:0007499	rdfs:label		
+ERROR	missing_label	UBERON:0007503	rdfs:label		
+ERROR	missing_label	UBERON:0007524	rdfs:label		
+ERROR	missing_label	UBERON:0007530	rdfs:label		
+ERROR	missing_label	UBERON:0007592	rdfs:label		
+ERROR	missing_label	UBERON:0007601	rdfs:label		
+ERROR	missing_label	UBERON:0007690	rdfs:label		
+ERROR	missing_label	UBERON:0008814	rdfs:label		
+ERROR	missing_label	UBERON:0008947	rdfs:label		
+ERROR	missing_label	UBERON:0009142	rdfs:label		
+ERROR	missing_label	UBERON:0009145	rdfs:label		
+ERROR	missing_label	UBERON:0009569	rdfs:label		
+ERROR	missing_label	UBERON:0009602	rdfs:label		
+ERROR	missing_label	UBERON:0009603	rdfs:label		
+ERROR	missing_label	UBERON:0009618	rdfs:label		
+ERROR	missing_label	UBERON:0009722	rdfs:label		
+ERROR	missing_label	UBERON:0009854	rdfs:label		
+ERROR	missing_label	UBERON:0009856	rdfs:label		
+ERROR	missing_label	UBERON:0010000	rdfs:label		
+ERROR	missing_label	UBERON:0010316	rdfs:label		
+ERROR	missing_label	UBERON:0010371	rdfs:label		
+ERROR	missing_label	UBERON:0010378	rdfs:label		
+ERROR	missing_label	UBERON:0010498	rdfs:label		
+ERROR	missing_label	UBERON:0010499	rdfs:label		
+ERROR	missing_label	UBERON:0010912	rdfs:label		
+ERROR	missing_label	UBERON:0011134	rdfs:label		
+ERROR	missing_label	UBERON:0011137	rdfs:label		
+ERROR	missing_label	UBERON:0011138	rdfs:label		
+ERROR	missing_label	UBERON:0011216	rdfs:label		
+ERROR	missing_label	UBERON:0011585	rdfs:label		
+ERROR	missing_label	UBERON:0011676	rdfs:label		
+ERROR	missing_label	UBERON:0012274	rdfs:label		
+ERROR	missing_label	UBERON:0012275	rdfs:label		
+ERROR	missing_label	UBERON:0013522	rdfs:label		
+ERROR	missing_label	UBERON:0013686	rdfs:label		
+ERROR	missing_label	UBERON:0013701	rdfs:label		
+ERROR	missing_label	UBERON:0013702	rdfs:label		
+ERROR	missing_label	UBERON:0013754	rdfs:label		
+ERROR	missing_label	UBERON:0013765	rdfs:label		
+ERROR	missing_label	UBERON:0014477	rdfs:label		
+ERROR	missing_label	UBERON:0015212	rdfs:label		
+ERROR	missing_label	UBERON:0015329	rdfs:label		
+ERROR	missing_label	UBERON:0015833	rdfs:label		
+ERROR	missing_label	UBERON:0016879	rdfs:label		
+ERROR	missing_label	UBERON:0016880	rdfs:label		
+ERROR	missing_label	UBERON:0034921	rdfs:label		
+ERROR	missing_label	UBERON:0034925	rdfs:label		
+ERROR	missing_label	UBERON:0036072	rdfs:label		
+ERROR	missing_label	UBERON:0036073	rdfs:label		
+ERROR	missing_ontology_description	scao.owl	dc11:description		
+ERROR	missing_ontology_license	scao.owl	dc:license		
+ERROR	missing_ontology_title	scao.owl	dc11:title		
+WARN	multiple_asserted_superclasses	CL:0000000	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	CL:0000000	rdfs:subClassOf	GO:0005575	
+WARN	multiple_asserted_superclasses	CL:0000003	rdfs:subClassOf	CL:0000000	
+WARN	multiple_asserted_superclasses	CL:0000003	rdfs:subClassOf	GO:0005623	
+WARN	multiple_asserted_superclasses	CL:0001034	rdfs:subClassOf	CL:0000000	
+WARN	multiple_asserted_superclasses	CL:0001034	rdfs:subClassOf	GO:0005623	
+WARN	multiple_asserted_superclasses	CL:0002076	rdfs:subClassOf	CL:0000066	
+WARN	multiple_asserted_superclasses	CL:0002076	rdfs:subClassOf	CL:0002371	
+WARN	multiple_asserted_superclasses	CL:0002077	rdfs:subClassOf	CL:0000066	
+WARN	multiple_asserted_superclasses	CL:0002077	rdfs:subClassOf	CL:0002371	
+WARN	multiple_asserted_superclasses	CL:0002319	rdfs:subClassOf	CL:0000548	
+WARN	multiple_asserted_superclasses	CL:0002319	rdfs:subClassOf	CL:0002371	
+WARN	multiple_asserted_superclasses	CL:0002320	rdfs:subClassOf	CL:0000548	
+WARN	multiple_asserted_superclasses	CL:0002320	rdfs:subClassOf	CL:0002371	
+WARN	multiple_asserted_superclasses	GO:0005623	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	GO:0005623	rdfs:subClassOf	GO:0005575	
+WARN	multiple_asserted_superclasses	GO:0043229	rdfs:subClassOf	GO:0043226	
+WARN	multiple_asserted_superclasses	GO:0043229	rdfs:subClassOf	GO:0044424	
+WARN	multiple_asserted_superclasses	GO:0043231	rdfs:subClassOf	GO:0043227	
+WARN	multiple_asserted_superclasses	GO:0043231	rdfs:subClassOf	GO:0043229	
+WARN	multiple_asserted_superclasses	GO:0044464	rdfs:subClassOf	CARO:0000014	
+WARN	multiple_asserted_superclasses	GO:0044464	rdfs:subClassOf	GO:0005575	
+WARN	multiple_asserted_superclasses	UBERON:0000065	rdfs:subClassOf	UBERON:0001005	
+WARN	multiple_asserted_superclasses	UBERON:0000065	rdfs:subClassOf	UBERON:0004119	
+WARN	multiple_asserted_superclasses	UBERON:0000072	rdfs:subClassOf	UBERON:0004119	
+WARN	multiple_asserted_superclasses	UBERON:0000072	rdfs:subClassOf	UBERON:0013522	
+WARN	multiple_asserted_superclasses	UBERON:0000076	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0000076	rdfs:subClassOf	UBERON:0000490	
+WARN	multiple_asserted_superclasses	UBERON:0000076	rdfs:subClassOf	UBERON:0005291	
+WARN	multiple_asserted_superclasses	UBERON:0000077	rdfs:subClassOf	UBERON:0004119	
+WARN	multiple_asserted_superclasses	UBERON:0000077	rdfs:subClassOf	UBERON:0004120	
+WARN	multiple_asserted_superclasses	UBERON:0000078	rdfs:subClassOf	UBERON:0000077	
+WARN	multiple_asserted_superclasses	UBERON:0000078	rdfs:subClassOf	UBERON:0004121	
+WARN	multiple_asserted_superclasses	UBERON:0000114	rdfs:subClassOf	UBERON:0000077	
+WARN	multiple_asserted_superclasses	UBERON:0000114	rdfs:subClassOf	UBERON:0003580	
+WARN	multiple_asserted_superclasses	UBERON:0000114	rdfs:subClassOf	UBERON:0003837	
+WARN	multiple_asserted_superclasses	UBERON:0000117	rdfs:subClassOf	UBERON:0000025	
+WARN	multiple_asserted_superclasses	UBERON:0000117	rdfs:subClassOf	UBERON:0004119	
+WARN	multiple_asserted_superclasses	UBERON:0000118	rdfs:subClassOf	UBERON:0005153	
+WARN	multiple_asserted_superclasses	UBERON:0000118	rdfs:subClassOf	UBERON:0005911	
+WARN	multiple_asserted_superclasses	UBERON:0000170	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0000170	rdfs:subClassOf	UBERON:0034925	
+WARN	multiple_asserted_superclasses	UBERON:0000307	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0000307	rdfs:subClassOf	UBERON:0000922	
+WARN	multiple_asserted_superclasses	UBERON:0000383	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0000383	rdfs:subClassOf	UBERON:0011216	
+WARN	multiple_asserted_superclasses	UBERON:0000485	rdfs:subClassOf	UBERON:0000490	
+WARN	multiple_asserted_superclasses	UBERON:0000485	rdfs:subClassOf	UBERON:0012274	
+WARN	multiple_asserted_superclasses	UBERON:0000915	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0000915	rdfs:subClassOf	UBERON:0009569	
+WARN	multiple_asserted_superclasses	UBERON:0000915	rdfs:subClassOf	UBERON:0011676	
+WARN	multiple_asserted_superclasses	UBERON:0001015	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0001015	rdfs:subClassOf	UBERON:0011216	
+WARN	multiple_asserted_superclasses	UBERON:0001017	rdfs:subClassOf	UBERON:0004121	
+WARN	multiple_asserted_superclasses	UBERON:0001017	rdfs:subClassOf	UBERON:0011216	
+WARN	multiple_asserted_superclasses	UBERON:0001558	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0001558	rdfs:subClassOf	UBERON:0000072	
+WARN	multiple_asserted_superclasses	UBERON:0001630	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0001630	rdfs:subClassOf	UBERON:0000062	
+WARN	multiple_asserted_superclasses	UBERON:0001630	rdfs:subClassOf	UBERON:0005090	
+WARN	multiple_asserted_superclasses	UBERON:0002048	rdfs:subClassOf	UBERON:0000171	
+WARN	multiple_asserted_superclasses	UBERON:0002048	rdfs:subClassOf	UBERON:0004119	
+WARN	multiple_asserted_superclasses	UBERON:0002048	rdfs:subClassOf	UBERON:0005178	
+WARN	multiple_asserted_superclasses	UBERON:0002048	rdfs:subClassOf	UBERON:0015212	
+WARN	multiple_asserted_superclasses	UBERON:0002090	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0002090	rdfs:subClassOf	UBERON:0010912	
+WARN	multiple_asserted_superclasses	UBERON:0002204	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0002204	rdfs:subClassOf	UBERON:0000467	
+WARN	multiple_asserted_superclasses	UBERON:0002329	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0002329	rdfs:subClassOf	UBERON:0005423	
+WARN	multiple_asserted_superclasses	UBERON:0002329	rdfs:subClassOf	UBERON:0007503	
+WARN	multiple_asserted_superclasses	UBERON:0002385	rdfs:subClassOf	UBERON:0000479	
+WARN	multiple_asserted_superclasses	UBERON:0002385	rdfs:subClassOf	UBERON:0004120	
+WARN	multiple_asserted_superclasses	UBERON:0002416	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0002416	rdfs:subClassOf	UBERON:0000467	
+WARN	multiple_asserted_superclasses	UBERON:0003077	rdfs:subClassOf	UBERON:0005291	
+WARN	multiple_asserted_superclasses	UBERON:0003077	rdfs:subClassOf	UBERON:0007524	
+WARN	multiple_asserted_superclasses	UBERON:0003077	rdfs:subClassOf	UBERON:0015212	
+WARN	multiple_asserted_superclasses	UBERON:0003081	rdfs:subClassOf	UBERON:0002050	
+WARN	multiple_asserted_superclasses	UBERON:0003081	rdfs:subClassOf	UBERON:0004120	
+WARN	multiple_asserted_superclasses	UBERON:0003081	rdfs:subClassOf	UBERON:0005291	
+WARN	multiple_asserted_superclasses	UBERON:0003081	rdfs:subClassOf	UBERON:0007524	
+WARN	multiple_asserted_superclasses	UBERON:0003089	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0003089	rdfs:subClassOf	UBERON:0005856	
+WARN	multiple_asserted_superclasses	UBERON:0003089	rdfs:subClassOf	UBERON:0007530	
+WARN	multiple_asserted_superclasses	UBERON:0003102	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0003102	rdfs:subClassOf	UBERON:0000061	
+WARN	multiple_asserted_superclasses	UBERON:0003258	rdfs:subClassOf	UBERON:0000490	
+WARN	multiple_asserted_superclasses	UBERON:0003258	rdfs:subClassOf	UBERON:0005911	
+WARN	multiple_asserted_superclasses	UBERON:0003258	rdfs:subClassOf	UBERON:0015833	
+WARN	multiple_asserted_superclasses	UBERON:0003580	rdfs:subClassOf	UBERON:0003570	
+WARN	multiple_asserted_superclasses	UBERON:0003580	rdfs:subClassOf	UBERON:0004119	
+WARN	multiple_asserted_superclasses	UBERON:0003914	rdfs:subClassOf	UBERON:0000025	
+WARN	multiple_asserted_superclasses	UBERON:0003914	rdfs:subClassOf	UBERON:0000483	
+WARN	multiple_asserted_superclasses	UBERON:0004119	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0004119	rdfs:subClassOf	UBERON:0000061	
+WARN	multiple_asserted_superclasses	UBERON:0004120	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0004120	rdfs:subClassOf	UBERON:0000061	
+WARN	multiple_asserted_superclasses	UBERON:0004121	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0004121	rdfs:subClassOf	UBERON:0000061	
+WARN	multiple_asserted_superclasses	UBERON:0004185	rdfs:subClassOf	UBERON:0004119	
+WARN	multiple_asserted_superclasses	UBERON:0004185	rdfs:subClassOf	UBERON:0004921	
+WARN	multiple_asserted_superclasses	UBERON:0004802	rdfs:subClassOf	UBERON:0004807	
+WARN	multiple_asserted_superclasses	UBERON:0004802	rdfs:subClassOf	UBERON:0005911	
+WARN	multiple_asserted_superclasses	UBERON:0004802	rdfs:subClassOf	UBERON:0010499	
+WARN	multiple_asserted_superclasses	UBERON:0004873	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0004873	rdfs:subClassOf	UBERON:0002050	
+WARN	multiple_asserted_superclasses	UBERON:0004883	rdfs:subClassOf	UBERON:0000077	
+WARN	multiple_asserted_superclasses	UBERON:0004883	rdfs:subClassOf	UBERON:0003104	
+WARN	multiple_asserted_superclasses	UBERON:0004906	rdfs:subClassOf	UBERON:0004121	
+WARN	multiple_asserted_superclasses	UBERON:0004906	rdfs:subClassOf	UBERON:0004921	
+WARN	multiple_asserted_superclasses	UBERON:0005256	rdfs:subClassOf	UBERON:0003104	
+WARN	multiple_asserted_superclasses	UBERON:0005256	rdfs:subClassOf	UBERON:0005291	
+WARN	multiple_asserted_superclasses	UBERON:0005597	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0005597	rdfs:subClassOf	UBERON:0001048	
+WARN	multiple_asserted_superclasses	UBERON:0005856	rdfs:subClassOf	UBERON:0007524	
+WARN	multiple_asserted_superclasses	UBERON:0005856	rdfs:subClassOf	UBERON:0011585	
+WARN	multiple_asserted_superclasses	UBERON:0005911	rdfs:subClassOf	UBERON:0000483	
+WARN	multiple_asserted_superclasses	UBERON:0005911	rdfs:subClassOf	UBERON:0004119	
+WARN	multiple_asserted_superclasses	UBERON:0005944	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0005944	rdfs:subClassOf	UBERON:0010912	
+WARN	multiple_asserted_superclasses	UBERON:0006595	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0006595	rdfs:subClassOf	UBERON:0006598	
+WARN	multiple_asserted_superclasses	UBERON:0006601	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0006601	rdfs:subClassOf	UBERON:0006598	
+WARN	multiple_asserted_superclasses	UBERON:0006603	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0006603	rdfs:subClassOf	UBERON:0006598	
+WARN	multiple_asserted_superclasses	UBERON:0007282	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0007282	rdfs:subClassOf	UBERON:0006598	
+WARN	multiple_asserted_superclasses	UBERON:0007285	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0007285	rdfs:subClassOf	UBERON:0006598	
+WARN	multiple_asserted_superclasses	UBERON:0007376	rdfs:subClassOf	UBERON:0003102	
+WARN	multiple_asserted_superclasses	UBERON:0007376	rdfs:subClassOf	UBERON:0010371	
+WARN	multiple_asserted_superclasses	UBERON:0007383	rdfs:subClassOf	UBERON:0000490	
+WARN	multiple_asserted_superclasses	UBERON:0007383	rdfs:subClassOf	UBERON:0005291	
+WARN	multiple_asserted_superclasses	UBERON:0007383	rdfs:subClassOf	UBERON:0010371	
+WARN	multiple_asserted_superclasses	UBERON:0007499	rdfs:subClassOf	UBERON:0003914	
+WARN	multiple_asserted_superclasses	UBERON:0007499	rdfs:subClassOf	UBERON:0009856	
+WARN	multiple_asserted_superclasses	UBERON:0007592	rdfs:subClassOf	UBERON:0000485	
+WARN	multiple_asserted_superclasses	UBERON:0007592	rdfs:subClassOf	UBERON:0007601	
+WARN	multiple_asserted_superclasses	UBERON:0007690	rdfs:subClassOf	UBERON:0003258	
+WARN	multiple_asserted_superclasses	UBERON:0007690	rdfs:subClassOf	UBERON:0005291	
+WARN	multiple_asserted_superclasses	UBERON:0008947	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0008947	rdfs:subClassOf	UBERON:0001048	
+WARN	multiple_asserted_superclasses	UBERON:0009722	rdfs:subClassOf	UBERON:0005291	
+WARN	multiple_asserted_superclasses	UBERON:0009722	rdfs:subClassOf	UBERON:0005911	
+WARN	multiple_asserted_superclasses	UBERON:0009722	rdfs:subClassOf	UBERON:0015833	
+WARN	multiple_asserted_superclasses	UBERON:0009854	rdfs:subClassOf	UBERON:0004921	
+WARN	multiple_asserted_superclasses	UBERON:0009854	rdfs:subClassOf	UBERON:0009856	
+WARN	multiple_asserted_superclasses	UBERON:0010316	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0010316	rdfs:subClassOf	UBERON:0002050	
+WARN	multiple_asserted_superclasses	UBERON:0010316	rdfs:subClassOf	UBERON:0005291	
+WARN	multiple_asserted_superclasses	UBERON:0010371	rdfs:subClassOf	UBERON:0000483	
+WARN	multiple_asserted_superclasses	UBERON:0010371	rdfs:subClassOf	UBERON:0004121	
+WARN	multiple_asserted_superclasses	UBERON:0010378	rdfs:subClassOf	UBERON:0004120	
+WARN	multiple_asserted_superclasses	UBERON:0010378	rdfs:subClassOf	UBERON:0005291	
+WARN	multiple_asserted_superclasses	UBERON:0010378	rdfs:subClassOf	UBERON:0007524	
+WARN	multiple_asserted_superclasses	UBERON:0010499	rdfs:subClassOf	UBERON:0007592	
+WARN	multiple_asserted_superclasses	UBERON:0010499	rdfs:subClassOf	UBERON:0010498	
+WARN	multiple_asserted_superclasses	UBERON:0011137	rdfs:subClassOf	CARO:0000003	
+WARN	multiple_asserted_superclasses	UBERON:0011137	rdfs:subClassOf	UBERON:0000075	
+WARN	multiple_asserted_superclasses	UBERON:0011138	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0011138	rdfs:subClassOf	UBERON:0000075	
+WARN	multiple_asserted_superclasses	UBERON:0012275	rdfs:subClassOf	UBERON:0000483	
+WARN	multiple_asserted_superclasses	UBERON:0012275	rdfs:subClassOf	UBERON:0004120	
+WARN	multiple_asserted_superclasses	UBERON:0014477	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0014477	rdfs:subClassOf	UBERON:0010912	
+WARN	multiple_asserted_superclasses	UBERON:0016879	rdfs:subClassOf	BFO:0000004	
+WARN	multiple_asserted_superclasses	UBERON:0016879	rdfs:subClassOf	UBERON:0006598	
+WARN	multiple_asserted_superclasses	UBERON:0036072	rdfs:subClassOf	UBERON:0004185	
+WARN	multiple_asserted_superclasses	UBERON:0036072	rdfs:subClassOf	UBERON:0005911	
+WARN	multiple_asserted_superclasses	UBERON:0036072	rdfs:subClassOf	UBERON:0007499	
+WARN	multiple_asserted_superclasses	UBERON:0036072	rdfs:subClassOf	UBERON:0009854	
+WARN	multiple_asserted_superclasses	UBERON:0036072	rdfs:subClassOf	UBERON:0015833	
+WARN	multiple_asserted_superclasses	UBERON:0036073	rdfs:subClassOf	UBERON:0000077	
+WARN	multiple_asserted_superclasses	UBERON:0036073	rdfs:subClassOf	UBERON:0003104	
+WARN	missing_definition	BFO:0000004	IAO:0000115		
+WARN	missing_definition	BFO:0000020	IAO:0000115		
+WARN	missing_definition	BFO:0000040	IAO:0000115		
+WARN	missing_definition	CARO:0000003	IAO:0000115		
+WARN	missing_definition	CARO:0000006	IAO:0000115		
+WARN	missing_definition	CARO:0000014	IAO:0000115		
+WARN	missing_definition	CL:0000000	IAO:0000115		
+WARN	missing_definition	CL:0000001	IAO:0000115		
+WARN	missing_definition	CL:0000003	IAO:0000115		
+WARN	missing_definition	CL:0000010	IAO:0000115		
+WARN	missing_definition	CL:0000066	IAO:0000115		
+WARN	missing_definition	CL:0000082	IAO:0000115		
+WARN	missing_definition	CL:0000221	IAO:0000115		
+WARN	missing_definition	CL:0000223	IAO:0000115		
+WARN	missing_definition	CL:0000225	IAO:0000115		
+WARN	missing_definition	CL:0000255	IAO:0000115		
+WARN	missing_definition	CL:0000362	IAO:0000115		
+WARN	missing_definition	CL:0000548	IAO:0000115		
+WARN	missing_definition	CL:0000578	IAO:0000115		
+WARN	missing_definition	CL:0001034	IAO:0000115		
+WARN	missing_definition	CL:0002076	IAO:0000115		
+WARN	missing_definition	CL:0002077	IAO:0000115		
+WARN	missing_definition	CL:0002159	IAO:0000115		
+WARN	missing_definition	CL:0002242	IAO:0000115		
+WARN	missing_definition	CL:0002251	IAO:0000115		
+WARN	missing_definition	CL:0002319	IAO:0000115		
+WARN	missing_definition	CL:0002320	IAO:0000115		
+WARN	missing_definition	CL:0002321	IAO:0000115		
+WARN	missing_definition	CL:0002368	IAO:0000115		
+WARN	missing_definition	CL:0002371	IAO:0000115		
+WARN	missing_definition	CL:0002632	IAO:0000115		
+WARN	missing_definition	GO:0005623	IAO:0000115		
+WARN	missing_definition	GO:0005634	IAO:0000115		
+WARN	missing_definition	GO:0043226	IAO:0000115		
+WARN	missing_definition	GO:0043227	IAO:0000115		
+WARN	missing_definition	GO:0043229	IAO:0000115		
+WARN	missing_definition	GO:0043231	IAO:0000115		
+WARN	missing_definition	GO:0044424	IAO:0000115		
+WARN	missing_definition	GO:0044464	IAO:0000115		
+WARN	missing_definition	PATO:0001241	IAO:0000115		
+WARN	missing_definition	PATO:0001396	IAO:0000115		
+WARN	missing_definition	PATO:0001404	IAO:0000115		
+WARN	missing_definition	PATO:0001405	IAO:0000115		
+WARN	missing_definition	PATO:0002505	IAO:0000115		
+WARN	missing_definition	SCAO:00000000	IAO:0000115		
+WARN	missing_definition	UBERON:0000010	IAO:0000115		
+WARN	missing_definition	UBERON:0000025	IAO:0000115		
+WARN	missing_definition	UBERON:0000060	IAO:0000115		
+WARN	missing_definition	UBERON:0000061	IAO:0000115		
+WARN	missing_definition	UBERON:0000062	IAO:0000115		
+WARN	missing_definition	UBERON:0000064	IAO:0000115		
+WARN	missing_definition	UBERON:0000065	IAO:0000115		
+WARN	missing_definition	UBERON:0000072	IAO:0000115		
+WARN	missing_definition	UBERON:0000075	IAO:0000115		
+WARN	missing_definition	UBERON:0000076	IAO:0000115		
+WARN	missing_definition	UBERON:0000077	IAO:0000115		
+WARN	missing_definition	UBERON:0000078	IAO:0000115		
+WARN	missing_definition	UBERON:0000114	IAO:0000115		
+WARN	missing_definition	UBERON:0000115	IAO:0000115		
+WARN	missing_definition	UBERON:0000117	IAO:0000115		
+WARN	missing_definition	UBERON:0000118	IAO:0000115		
+WARN	missing_definition	UBERON:0000170	IAO:0000115		
+WARN	missing_definition	UBERON:0000171	IAO:0000115		
+WARN	missing_definition	UBERON:0000307	IAO:0000115		
+WARN	missing_definition	UBERON:0000328	IAO:0000115		
+WARN	missing_definition	UBERON:0000383	IAO:0000115		
+WARN	missing_definition	UBERON:0000464	IAO:0000115		
+WARN	missing_definition	UBERON:0000465	IAO:0000115		
+WARN	missing_definition	UBERON:0000466	IAO:0000115		
+WARN	missing_definition	UBERON:0000467	IAO:0000115		
+WARN	missing_definition	UBERON:0000468	IAO:0000115		
+WARN	missing_definition	UBERON:0000475	IAO:0000115		
+WARN	missing_definition	UBERON:0000476	IAO:0000115		
+WARN	missing_definition	UBERON:0000477	IAO:0000115		
+WARN	missing_definition	UBERON:0000479	IAO:0000115		
+WARN	missing_definition	UBERON:0000483	IAO:0000115		
+WARN	missing_definition	UBERON:0000485	IAO:0000115		
+WARN	missing_definition	UBERON:0000486	IAO:0000115		
+WARN	missing_definition	UBERON:0000490	IAO:0000115		
+WARN	missing_definition	UBERON:0000915	IAO:0000115		
+WARN	missing_definition	UBERON:0000922	IAO:0000115		
+WARN	missing_definition	UBERON:0000923	IAO:0000115		
+WARN	missing_definition	UBERON:0000924	IAO:0000115		
+WARN	missing_definition	UBERON:0000925	IAO:0000115		
+WARN	missing_definition	UBERON:0000926	IAO:0000115		
+WARN	missing_definition	UBERON:0000982	IAO:0000115		
+WARN	missing_definition	UBERON:0001004	IAO:0000115		
+WARN	missing_definition	UBERON:0001005	IAO:0000115		
+WARN	missing_definition	UBERON:0001007	IAO:0000115		
+WARN	missing_definition	UBERON:0001009	IAO:0000115		
+WARN	missing_definition	UBERON:0001015	IAO:0000115		
+WARN	missing_definition	UBERON:0001016	IAO:0000115		
+WARN	missing_definition	UBERON:0001017	IAO:0000115		
+WARN	missing_definition	UBERON:0001041	IAO:0000115		
+WARN	missing_definition	UBERON:0001048	IAO:0000115		
+WARN	missing_definition	UBERON:0001434	IAO:0000115		
+WARN	missing_definition	UBERON:0001555	IAO:0000115		
+WARN	missing_definition	UBERON:0001558	IAO:0000115		
+WARN	missing_definition	UBERON:0001630	IAO:0000115		
+WARN	missing_definition	UBERON:0002048	IAO:0000115		
+WARN	missing_definition	UBERON:0002050	IAO:0000115		
+WARN	missing_definition	UBERON:0002090	IAO:0000115		
+WARN	missing_definition	UBERON:0002100	IAO:0000115		
+WARN	missing_definition	UBERON:0002167	IAO:0000115		
+WARN	missing_definition	UBERON:0002168	IAO:0000115		
+WARN	missing_definition	UBERON:0002204	IAO:0000115		
+WARN	missing_definition	UBERON:0002217	IAO:0000115		
+WARN	missing_definition	UBERON:0002329	IAO:0000115		
+WARN	missing_definition	UBERON:0002384	IAO:0000115		
+WARN	missing_definition	UBERON:0002385	IAO:0000115		
+WARN	missing_definition	UBERON:0002416	IAO:0000115		
+WARN	missing_definition	UBERON:0002532	IAO:0000115		
+WARN	missing_definition	UBERON:0003059	IAO:0000115		
+WARN	missing_definition	UBERON:0003077	IAO:0000115		
+WARN	missing_definition	UBERON:0003081	IAO:0000115		
+WARN	missing_definition	UBERON:0003089	IAO:0000115		
+WARN	missing_definition	UBERON:0003102	IAO:0000115		
+WARN	missing_definition	UBERON:0003103	IAO:0000115		
+WARN	missing_definition	UBERON:0003104	IAO:0000115		
+WARN	missing_definition	UBERON:0003258	IAO:0000115		
+WARN	missing_definition	UBERON:0003364	IAO:0000115		
+WARN	missing_definition	UBERON:0003365	IAO:0000115		
+WARN	missing_definition	UBERON:0003570	IAO:0000115		
+WARN	missing_definition	UBERON:0003580	IAO:0000115		
+WARN	missing_definition	UBERON:0003586	IAO:0000115		
+WARN	missing_definition	UBERON:0003831	IAO:0000115		
+WARN	missing_definition	UBERON:0003837	IAO:0000115		
+WARN	missing_definition	UBERON:0003914	IAO:0000115		
+WARN	missing_definition	UBERON:0003929	IAO:0000115		
+WARN	missing_definition	UBERON:0004111	IAO:0000115		
+WARN	missing_definition	UBERON:0004119	IAO:0000115		
+WARN	missing_definition	UBERON:0004120	IAO:0000115		
+WARN	missing_definition	UBERON:0004121	IAO:0000115		
+WARN	missing_definition	UBERON:0004185	IAO:0000115		
+WARN	missing_definition	UBERON:0004253	IAO:0000115		
+WARN	missing_definition	UBERON:0004288	IAO:0000115		
+WARN	missing_definition	UBERON:0004464	IAO:0000115		
+WARN	missing_definition	UBERON:0004479	IAO:0000115		
+WARN	missing_definition	UBERON:0004765	IAO:0000115		
+WARN	missing_definition	UBERON:0004770	IAO:0000115		
+WARN	missing_definition	UBERON:0004802	IAO:0000115		
+WARN	missing_definition	UBERON:0004807	IAO:0000115		
+WARN	missing_definition	UBERON:0004815	IAO:0000115		
+WARN	missing_definition	UBERON:0004873	IAO:0000115		
+WARN	missing_definition	UBERON:0004883	IAO:0000115		
+WARN	missing_definition	UBERON:0004905	IAO:0000115		
+WARN	missing_definition	UBERON:0004906	IAO:0000115		
+WARN	missing_definition	UBERON:0004921	IAO:0000115		
+WARN	missing_definition	UBERON:0004923	IAO:0000115		
+WARN	missing_definition	UBERON:0005090	IAO:0000115		
+WARN	missing_definition	UBERON:0005153	IAO:0000115		
+WARN	missing_definition	UBERON:0005157	IAO:0000115		
+WARN	missing_definition	UBERON:0005177	IAO:0000115		
+WARN	missing_definition	UBERON:0005178	IAO:0000115		
+WARN	missing_definition	UBERON:0005181	IAO:0000115		
+WARN	missing_definition	UBERON:0005256	IAO:0000115		
+WARN	missing_definition	UBERON:0005291	IAO:0000115		
+WARN	missing_definition	UBERON:0005423	IAO:0000115		
+WARN	missing_definition	UBERON:0005597	IAO:0000115		
+WARN	missing_definition	UBERON:0005598	IAO:0000115		
+WARN	missing_definition	UBERON:0005764	IAO:0000115		
+WARN	missing_definition	UBERON:0005769	IAO:0000115		
+WARN	missing_definition	UBERON:0005856	IAO:0000115		
+WARN	missing_definition	UBERON:0005911	IAO:0000115		
+WARN	missing_definition	UBERON:0005944	IAO:0000115		
+WARN	missing_definition	UBERON:0006595	IAO:0000115		
+WARN	missing_definition	UBERON:0006598	IAO:0000115		
+WARN	missing_definition	UBERON:0006601	IAO:0000115		
+WARN	missing_definition	UBERON:0006603	IAO:0000115		
+WARN	missing_definition	UBERON:0007010	IAO:0000115		
+WARN	missing_definition	UBERON:0007026	IAO:0000115		
+WARN	missing_definition	UBERON:0007282	IAO:0000115		
+WARN	missing_definition	UBERON:0007285	IAO:0000115		
+WARN	missing_definition	UBERON:0007376	IAO:0000115		
+WARN	missing_definition	UBERON:0007383	IAO:0000115		
+WARN	missing_definition	UBERON:0007499	IAO:0000115		
+WARN	missing_definition	UBERON:0007503	IAO:0000115		
+WARN	missing_definition	UBERON:0007524	IAO:0000115		
+WARN	missing_definition	UBERON:0007530	IAO:0000115		
+WARN	missing_definition	UBERON:0007592	IAO:0000115		
+WARN	missing_definition	UBERON:0007601	IAO:0000115		
+WARN	missing_definition	UBERON:0007690	IAO:0000115		
+WARN	missing_definition	UBERON:0008814	IAO:0000115		
+WARN	missing_definition	UBERON:0008947	IAO:0000115		
+WARN	missing_definition	UBERON:0009142	IAO:0000115		
+WARN	missing_definition	UBERON:0009145	IAO:0000115		
+WARN	missing_definition	UBERON:0009569	IAO:0000115		
+WARN	missing_definition	UBERON:0009602	IAO:0000115		
+WARN	missing_definition	UBERON:0009603	IAO:0000115		
+WARN	missing_definition	UBERON:0009618	IAO:0000115		
+WARN	missing_definition	UBERON:0009722	IAO:0000115		
+WARN	missing_definition	UBERON:0009854	IAO:0000115		
+WARN	missing_definition	UBERON:0009856	IAO:0000115		
+WARN	missing_definition	UBERON:0010000	IAO:0000115		
+WARN	missing_definition	UBERON:0010316	IAO:0000115		
+WARN	missing_definition	UBERON:0010371	IAO:0000115		
+WARN	missing_definition	UBERON:0010378	IAO:0000115		
+WARN	missing_definition	UBERON:0010498	IAO:0000115		
+WARN	missing_definition	UBERON:0010499	IAO:0000115		
+WARN	missing_definition	UBERON:0010912	IAO:0000115		
+WARN	missing_definition	UBERON:0011134	IAO:0000115		
+WARN	missing_definition	UBERON:0011137	IAO:0000115		
+WARN	missing_definition	UBERON:0011138	IAO:0000115		
+WARN	missing_definition	UBERON:0011216	IAO:0000115		
+WARN	missing_definition	UBERON:0011585	IAO:0000115		
+WARN	missing_definition	UBERON:0011676	IAO:0000115		
+WARN	missing_definition	UBERON:0012274	IAO:0000115		
+WARN	missing_definition	UBERON:0012275	IAO:0000115		
+WARN	missing_definition	UBERON:0013522	IAO:0000115		
+WARN	missing_definition	UBERON:0013686	IAO:0000115		
+WARN	missing_definition	UBERON:0013701	IAO:0000115		
+WARN	missing_definition	UBERON:0013702	IAO:0000115		
+WARN	missing_definition	UBERON:0013754	IAO:0000115		
+WARN	missing_definition	UBERON:0013765	IAO:0000115		
+WARN	missing_definition	UBERON:0014477	IAO:0000115		
+WARN	missing_definition	UBERON:0015212	IAO:0000115		
+WARN	missing_definition	UBERON:0015329	IAO:0000115		
+WARN	missing_definition	UBERON:0015833	IAO:0000115		
+WARN	missing_definition	UBERON:0016879	IAO:0000115		
+WARN	missing_definition	UBERON:0016880	IAO:0000115		
+WARN	missing_definition	UBERON:0034921	IAO:0000115		
+WARN	missing_definition	UBERON:0034925	IAO:0000115		
+WARN	missing_definition	UBERON:0036072	IAO:0000115		
+WARN	missing_definition	UBERON:0036073	IAO:0000115		
+INFO	missing_superclass	BFO:0000002	rdfs:subClassOf		
+INFO	missing_superclass	GO:0005575	rdfs:subClassOf		
+INFO	missing_superclass	PATO:0000001	rdfs:subClassOf		
+INFO	missing_superclass	SCAO:00000000	rdfs:subClassOf		
+INFO	missing_superclass	UBERON:0001062	rdfs:subClassOf		

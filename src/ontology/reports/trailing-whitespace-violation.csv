@@ -1,0 +1,14 @@
+c,p,x
+http://www.ebi.ac.uk/efo/alternative_term,http://purl.obolibrary.org/obo/IAO_0000115,An alternative label for a given entity such as a commonly used abbreviation or synonym. 
+http://www.ebi.ac.uk/efo/EFO_0007725,http://www.ebi.ac.uk/efo/XAO_definition_citation, XAO:1000012
+http://www.ebi.ac.uk/efo/EFO_0007725,http://www.ebi.ac.uk/efo/FMA_definition_citation, FMA:72652
+http://www.ebi.ac.uk/efo/EFO_0007725,http://www.ebi.ac.uk/efo/EV_definition_citation, EV:0300001
+http://www.ebi.ac.uk/efo/EFO_0007725,http://www.ebi.ac.uk/efo/MmusDv_definition_citation, MmusDv:0000002
+http://www.ebi.ac.uk/efo/EFO_0007725,http://www.ebi.ac.uk/efo/WBls_definition_citation, WBls:0000102
+http://www.ebi.ac.uk/efo/EFO_0007725,http://www.ebi.ac.uk/efo/WBls_definition_citation, WBls:0000092
+http://www.ebi.ac.uk/efo/EFO_0007725,http://www.ebi.ac.uk/efo/HsapDv_definition_citation, HsapDv:0000002
+http://www.ebi.ac.uk/efo/EFO_0007725,http://www.ebi.ac.uk/efo/OGES_definition_citation, OGES:000022
+http://www.ebi.ac.uk/efo/EFO_0007725,http://www.ebi.ac.uk/efo/BilaDO_definition_citation, BilaDO:0000002
+http://purl.obolibrary.org/obo/CL_0002563,http://purl.obolibrary.org/obo/IAO_0000115,An epithelial cell of the intestine. [ GOC:tfm ] 
+http://purl.obolibrary.org/obo/UBERON_0006314,http://purl.obolibrary.org/obo/IAO_0000115,Liquid components of living organisms. includes fluids that are excreted or secreted from the body as well as body water that normally is not. 
+_:b0,http://www.geneontology.org/formats/oboInOwl#source,"DOI:10.1146/annurev.cellbio.22.010605.093317 Hartenstein V, Blood cells and blood cell development in the animal kingdom. Annual review of cell and developmental biology (2006) "

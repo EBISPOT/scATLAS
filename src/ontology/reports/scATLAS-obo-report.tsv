@@ -1,0 +1,751 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_label	http://www.ebi.ac.uk/efo/AAO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/ABA_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/AEO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/BFO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/BILA_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/BILS_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/BM_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/BTO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/BilaDO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/CALOHA_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/CARO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/CL_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/DOID_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/EFO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/EHDAA2_RETIRED_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/EHDAA2_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/EHDAA_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/EMAPA_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/ENVO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/EVM_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/EV_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/FBbt_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/FBdv_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/FMA_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/GAID_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/GOC_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/HAO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/HsapDv_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/ICD10_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/ICD9_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/IDOMAL_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/ISBN_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/MAT_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/MA_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/MCC_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/MFO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/MIAA_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/MONDO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/MSH_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/MmusDv_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/NCI_Metathesaurus_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/NIFSTD_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/NIF_GrossAnatomy_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/OGEM_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/OGES_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/OMIM_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/OpenCyc_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/PATO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/PMID_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/RETIRED_EHDAA2_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/RGD_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/SAEL_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/TAO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/UBERON_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/UMLS_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/VHOG_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/VSAO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/WBbt_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/WBls_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/Wikipedia_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/XAO_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/ZFA_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/ZFS_definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/definition_citation	rdfs:label		
+ERROR	missing_label	http://www.ebi.ac.uk/efo/galen_definition_citation	rdfs:label		
+ERROR	missing_ontology_description	http://www.ebi.ac.uk/efo	dc11:description		
+ERROR	multiple_definitions	CHEBI:2365	IAO:0000115	An abscisic acid that has formula C15H20O4.	
+ERROR	multiple_definitions	CHEBI:2365	IAO:0000115	The naturally occurring (1'S)-(+) enantiomer of abscisic acid. It is an important sesquiterpenoid plant hormone which acts as a regulator of plant responses to environmental stresses such as drought and cold.	
+ERROR	multiple_definitions	CHEBI:24431	IAO:0000115	A drug, solvent, chemical, etc., with a property that can be measured such as concentration.	
+ERROR	multiple_definitions	CHEBI:24431	IAO:0000115	A molecular entity consisting of two or more chemical elements.	
+ERROR	multiple_definitions	CHEBI:379896	IAO:0000115	A synthetic non-aromatisable androgen and anabolic steroid. It binds strongly to the androgen receptor and has therefore also been used as an affinity label for this receptor in the prostate and in prostatic tumors.	
+ERROR	multiple_definitions	CHEBI:379896	IAO:0000115	Human USP6 wild-type allele is located within 17p13 and is approximately 47 kb in length. This allele, which encodes ubiquitin carboxyl-terminal hydrolase 6 protein, is involved in protein binding and the cleavage of free ubiquitin chains. The USP6 gene is overexpressed in a specific osseous neoplasm termed an aneurysmal bone cyst.	
+ERROR	multiple_definitions	CL:0000010	IAO:0000115	A cell in vitro that is or has been maintained or propagated as part of a cell culture.	
+ERROR	multiple_definitions	CL:0000010	IAO:0000115	A cell line is a population of cells cultured in vitro that are descended through one or more generations (and possible sub-cultures) from a single primary culture which was originally derived from part of an organism.	
+ERROR	multiple_definitions	CL:0000037	IAO:0000115	A stem cell from which all cells of the lymphoid and myeloid lineages develop, including blood cells and cells of the immune system.	
+ERROR	multiple_definitions	CL:0000037	IAO:0000115	A stem cell from which all cells of the lymphoid and myeloid lineages develop, including blood cells and cells of the immune system. Hematopoietic stem cells lack cell markers of effector cells (lin-negative). Lin-negative is defined by lacking one or more of the following cell surface markers: CD2, CD3 epsilon, CD4,CD5,CD8 alpha chain, CD14, CD19, CD20, integrin alpha-M, neural cell adhesion molecule 1, lymphocyte antigen 6G, lymphocyte antigen 76.	
+ERROR	multiple_definitions	CL:0000057	IAO:0000115	A connective tissue cell which secretes an extracellular matrix rich in collagen and other macromolecules.	
+ERROR	multiple_definitions	CL:0000057	IAO:0000115	A connective tissue cell which secretes an extracellular matrix rich in collagen and other macromolecules. Flattened and irregular in outline with branching processes; appear fusiform or spindle-shaped.	
+ERROR	multiple_definitions	CL:0000057	IAO:0000115	A connective-tissue cell of mesenchymal origin that secretes proteins and especially molecular collagen from which the extracellular fibrillar matrix of connective tissue forms.	
+ERROR	multiple_definitions	CL:0000057	IAO:0000115	A large, flat, oval cell found in connective tissue and responsible for the formation of fibers.	
+ERROR	multiple_definitions	CL:0000066	IAO:0000115	A cell that is usually found in a two-dimensional sheet with a free surface.	
+ERROR	multiple_definitions	CL:0000066	IAO:0000115	A cell that is usually found in a two-dimensional sheet with a free surface. The cell has a cytoskeleton that allows for tight cell to cell contact and for cell polarity where apical part is directed towards the lumen and the basal part to the basal lamina.	
+ERROR	multiple_definitions	CL:0000066	IAO:0000115	Cell that cover the surface of the body and line its cavities.	
+ERROR	multiple_definitions	CL:0000066	IAO:0000115	Cell that line the inner and outer surfaces of the body by forming cellular layers (epithelium) or masses (MSH).	
+ERROR	multiple_definitions	CL:0000115	IAO:0000115	An endothelial cell comprises the outermost layer or lining of anatomical structures and can be squamous or cuboidal. In mammals, endothelial cell has vimentin filaments and is derived from the mesoderm.	
+ERROR	multiple_definitions	CL:0000115	IAO:0000115	The main type of cell found in the inside lining of blood vessels, lymph vessels, and the heart.	
+ERROR	multiple_definitions	CL:0000125	IAO:0000115	A non-neuronal cell of the nervous system. They not only provide physical support, but also respond to injury, regulate the ionic and chemical composition of the extracellular milieu. Guide neuronal migration during development, and exchange metabolites with neurons.	
+ERROR	multiple_definitions	CL:0000125	IAO:0000115	A non-neuronal cell of the nervous system. They not only provide physical support, but also respond to injury, regulate the ionic and chemical composition of the extracellular milieu. Guide neuronal migration during development, and exchange metabolites with neurons. (Reichenbach and Wolburg)	
+ERROR	multiple_definitions	CL:0000125	IAO:0000115	MERGED DEFINITION:nTARGET DEFINITION: The delicate network of branched cells and fibers that supports the tissue of the central nervous system.n--------------------nSOURCE DEFINITION: The cells of the supportive tissue of the central nervous system (neuroglia). These non-neural cells are of three kinds: astrocytes, oligodendrocytes (collectively termed macroglia) and microglia.	
+ERROR	multiple_definitions	CL:0000125	IAO:0000115	The delicate network of branched cells and fibers that supports the tissue of the central nervous system.	
+ERROR	multiple_definitions	CL:0000127	IAO:0000115	A class of large neuroglial (macroglial) cells in the central nervous system - the largest and most numerous neuroglial cells in the brain and spinal cord. Astrocytes (from \"star\" cells) are irregularly shaped with many long processes, including those with \"end feet\" which form the glial (limiting) membrane and directly and indirectly contribute to the blood-brain barrier. They regulate the extracellular ionic and chemical environment, and \"reactive astrocytes\" (along with microglia) respond to injury (MSH).	
+ERROR	multiple_definitions	CL:0000127	IAO:0000115	A class of large neuroglial (macroglial) cells in the central nervous system - the largest and most numerous neuroglial cells in the brain and spinal cord. Astrocytes (from 'star' cells) are irregularly shaped with many long processes, including those with 'end feet' which form the glial (limiting) membrane and directly and indirectly contribute to the blood-brain barrier. They regulate the extracellular ionic and chemical environment, and 'reactive astrocytes' (along with microglia) respond to injury.	
+ERROR	multiple_definitions	CL:0000127	IAO:0000115	cells) are irregularly shaped with many long processes, including those with \"end feet\" which form the glial (limiting) membrane and directly and indirectly contribute to the blood-brain barrier. They regulate the extracellular ionic and chemical environment, and	
+ERROR	multiple_definitions	CL:0000128	IAO:0000115	A class of large neuroglial (macroglial) cells in the central nervous system. Form the insulating myelin sheath of axons in the central nervous system.	
+ERROR	multiple_definitions	CL:0000128	IAO:0000115	A class of large neuroglial (macroglial) cells in the central nervous system. Oligodendroglia may be called interfascicular, perivascular, or perineuronal (not the same as satellite cells, perineuronal of ganglia) according to their location. They form the insulating myelin sheath of axons in the central nervous system (MSH).	
+ERROR	multiple_definitions	CL:0000129	IAO:0000115	A central nervous system macrophage found in the parenchyma of the central nervous system.	
+ERROR	multiple_definitions	CL:0000129	IAO:0000115	A central nervous system macrophage found in the parenchyma of the central nervous system. Marker include CD11b-positive, F4/80-positive, and CD68-positive.	
+ERROR	multiple_definitions	CL:0000129	IAO:0000115	A small, migratory, phagocytic, interstitial cell of hematopoietic origin found in the central nervous system. Microglial cells are of various forms and may have slender branched processes.	
+ERROR	multiple_definitions	CL:0000129	IAO:0000115	MERGED DEFINITION:nTARGET DEFINITION: The small, non-neural, interstitial cells of mesodermal origin that form part of the supporting structure of the central nervous system. They are of various forms and may have slender branched processes. They are migratory and act as phagocytes to waste products of nerve tissue. n--------------------nSOURCE DEFINITION: One of the small interstitial phagocytic cells of the microglia.	
+ERROR	multiple_definitions	CL:0000129	IAO:0000115	The small, non-neural, interstitial cells of mesodermal origin that form part of the supporting structure of the central nervous system. They are of various forms and may have slender branched processes. They are migratory and act as phagocytes to waste products of nerve tissue.	
+ERROR	multiple_definitions	CL:0000136	IAO:0000115	A fat-storing cell found mostly in the abdominal cavity and subcutaneous tissue of mammals. Fat is usually stored in the form of triglycerides.	
+ERROR	multiple_definitions	CL:0000136	IAO:0000115	A fat-storing cell found mostly in the abdominal cavity and subcutaneous tissue of mammals. Fat is usually stored in the form of tryglycerides.	
+ERROR	multiple_definitions	CL:0000235	IAO:0000115	A mononuclear phagocyte present in variety of tissues, typically differentiated from monocytes, capable of phagocytosing a variety of extracellular particulate material, including immune complexes, microorganisms, and dead cells.	
+ERROR	multiple_definitions	CL:0000235	IAO:0000115	A mononuclear phagocyte which differentiates from monocytes, is typically resident in a particular tissue, and capable of phagocytosing a variety of extracellular particulate material, including immune complexes, microorganisms, and dead cells (Cell Ontology).	
+ERROR	multiple_definitions	CL:0000235	IAO:0000115	Relatively long-lived phagocytic cell of mammalian tissues, derived from blood monocyte. Macrophages from different sites have distinctly different properties. Main types are peritoneal and alveolar macrophages, tissue macrophages (histiocytes), Kuppfer cells of the liver, and osteoclasts. In response to foreign materials may become stimulated or activated. Macrophages play an important role in killing of some bacteria, protozoa, and tumour cells, release substances that stimulate other cells of the immune system, and are involved in antigen presentation. May further differentiate within chronic inflammatory lesions to epithelioid cells or may fuse to form foreign body giant cells or Langhans' giant cells.	
+ERROR	multiple_definitions	CL:0000236	IAO:0000115	A lymphocyte of B lineage with the phenotype CD19-positive and capable of B cell mediated immunity.	
+ERROR	multiple_definitions	CL:0000236	IAO:0000115	A lymphocyte of B lineage with the phenotype CD19-positive and surface immunoglobulin-positive.	
+ERROR	multiple_definitions	CL:0000236	IAO:0000115	Immunologically important lymphocyte that is not thymus-dependent, is either short-lived and naive or long-lived and of memory phenotype, and resembles the bursa-derived lymphocyte of birds in that it is responsible for the production of immunoglobulins.	
+ERROR	multiple_definitions	CL:0000451	IAO:0000115	A cell of hematopoietic origin, typically resident in particular tissues, specialized in the uptake, processing, and transport of antigens to lymph nodes for the purpose of stimulating an immune response via T cell activation.	
+ERROR	multiple_definitions	CL:0000451	IAO:0000115	A special type of cell that is a key regulator of the immune system, acting as a professional antigen-presenting cell, APC, capable of activating naive T cells and stimulating the growth and differentiation of B cells. Dendritic cells are found, for example, in the lymph nodes and spleen. As an APC, a dendritic cell can retain antigen for long periods on its surface, present the antigen to a T or B cell and so influence their behavior.	
+ERROR	multiple_definitions	CL:0000451	IAO:0000115	Large, stellate fibroblast found along the network of collagen fibers of the reticulum of the spleen; synthesize the matrix components of the reticulum.	
+ERROR	multiple_definitions	CL:0000540	IAO:0000115	A grayish or reddish granular cell with specialized processes that is the fundamental functional unit of nervous tissue.	
+ERROR	multiple_definitions	CL:0000540	IAO:0000115	The basic cellular unit of nervous tissue. Each neuron consists of a body, an axon, and dendrites. Their purpose is to receive, conduct, and transmit impulses in the nervous system.	
+ERROR	multiple_definitions	CL:0000540	IAO:0000115	The basic cellular units of nervous tissue. Neurons are polarized cells with defined regions consisting of the cell body, an axon, and dendrites, although some types of neurons lack axons or dendrites. Their purpose is to receive, conduct, and transmit impulses in the nervous system.	
+ERROR	multiple_definitions	CL:0000542	IAO:0000115	A cell of the B cell, T cell, or natural killer cell lineage.	
+ERROR	multiple_definitions	CL:0000542	IAO:0000115	A lymphocyte is a leukocyte commonly found in the blood and lymph that has the characteristics of a large nucleus, a neutral staining cytoplasm, and prominent heterochromatin.	
+ERROR	multiple_definitions	CL:0000542	IAO:0000115	Any of the colorless weakly motile cells originating from stem cells and differentiating in lymphoid tissue (as of the thymus or bone marrow) that are the typical cellular elements of lymph, include the cellular mediators of immunity, and constitute 20 to 30 percent of the white blood cells of normal human blood.	
+ERROR	multiple_definitions	CL:0000557	IAO:0000115	A hematopoietic progenitor cell that is committed to the granulocyte and monocyte lineages. These cells are CD123-positive, and do not express Gata-1, Gata2 but do express C/EBPa, and Pu.1.	
+ERROR	multiple_definitions	CL:0000557	IAO:0000115	A progenitor cell that has plasma membrane part CD123, CD34, and CD45RA, lacks plasma membrane part CD19 and CD3, and is committed to the granulocyte and monocyte lineages.	
+ERROR	multiple_definitions	CL:0000623	IAO:0000115	A large granular lymphocyte capable of killing a tumor or microbial cell without prior exposure to the target cell and without having it presented with or marked by a histocompatibility antigen.	
+ERROR	multiple_definitions	CL:0000623	IAO:0000115	A lymphocyte that can spontaneously kill a variety of target cells without prior antigenic activation via germline encoded activation receptors and also regulate immune responses via cytokine release and direct contact with other cells.	
+ERROR	multiple_definitions	CL:0000738	IAO:0000115	A nucleated cell of the myeloid or lymphoid lineages, found in blood or other tissue.	
+ERROR	multiple_definitions	CL:0000738	IAO:0000115	An achromatic cell of the myeloid or lymphoid lineages capable of ameboid movement, found in blood or other tissue.	
+ERROR	multiple_definitions	CL:0000738	IAO:0000115	Any of the blood cells that are colorless, lack hemoglobin, contain a nucleus, and include the lymphocytes, monocytes, neutrophils, eosinophils, and basophils.	
+ERROR	multiple_definitions	CL:0000786	IAO:0000115	A terminally differentiated cell of the B lymphocyte lineage that produces antibodies; plasma cells are oval or round with extensive rough endoplasmic reticulum, a well-developed Golgi apparatus, and a round nucleus having a characteristic cartwheel heterochromatin pattern.	
+ERROR	multiple_definitions	CL:0000786	IAO:0000115	A terminally differentiated, post-mitotic, antibody secreting cell of the B cell lineage with the phenotype CD138-positive, surface immunonoglobulin-negative, and MHC Class II-negative. Plasma cells are oval or round with extensive rough endoplasmic reticulum, a well-developed Golgi apparatus, and a round nucleus having a characteristic cartwheel heterochromatin pattern and are devoted to producing large amounts of immunoglobulin.	
+ERROR	multiple_definitions	CL:0000837	IAO:0000115	A hematopoietic multipotent progenitor cell is multipotent, but not capable of long-term self-renewal. These cells are characterized as lacking lineage cell surface markers and being CD34-positive in both mice and humans.	
+ERROR	multiple_definitions	CL:0000837	IAO:0000115	A progenitor cell of any hematopoietic lineage, potentially multipotent.	
+ERROR	multiple_definitions	CL:0000839	IAO:0000115	A progenitor cell of any myeloid lineage, potentially multipotent.	
+ERROR	multiple_definitions	CL:0000839	IAO:0000115	A progenitor cell restricted to the myeloid lineage.	
+ERROR	multiple_definitions	CL:0002334	IAO:0000115	A precursor to an adipocyte.	
+ERROR	multiple_definitions	CL:0002334	IAO:0000115	An undifferentiated fibroblast that can be stimulated to form a fat cell.	
+ERROR	multiple_definitions	CL:0002371	IAO:0000115	A cell of an organism that does not pass on its genetic material to the organism's offspring (i.e. a non-germ line cell).	
+ERROR	multiple_definitions	CL:0002371	IAO:0000115	One of the cells of the body that compose the tissues, organs, and parts of that individual other than the germ cells.	
+ERROR	multiple_definitions	OBI:0100026	IAO:0000115	A material entity that is an individual living system, such as animal, plant, bacteria or virus, that is capable of replicating or reproducing, growth and maintenance in the right environment. An organism may be unicellular or made up, like humans, of many billions of cells divided into specialized tissues and organs.	
+ERROR	multiple_definitions	OBI:0100026	IAO:0000115	A material entity that is an individual living system, such as animal, plant, bacteria or virus, that is capable of replicating or reproducing, growth and maintenance in the right environment. An organism may be unicellular or made up, like humans, of many billions of cells divided into specialized tissues and organs.@en	
+ERROR	multiple_definitions	OBI:0100026	IAO:0000115	A material entity that is an individual living system, such as animal, plant, bacteria or virus, that is capable of replicating or reproducing, growth and maintenance in the right environment. An organism may be unicellular or made up, like humans, of many billions of cells divided into specialized tissues and organs. E.g Drosophila melanogaster	
+ERROR	multiple_definitions	PATO:0000047	IAO:0000115	An organismal quality inhering in a bearer by virtue of the bearer's ability to undergo sexual reproduction in order to differentiate the individuals or types involved.	
+ERROR	multiple_definitions	PATO:0000047	IAO:0000115	Term applied to any organism able to undergo sexual reproduction in order to differentiate the individuals or types involved. Sexual reproduction is defined as the ability to exchange genetic material with the potential of recombinant progeny.	
+ERROR	multiple_definitions	PATO:0000047	IAO:0000115	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.	
+ERROR	multiple_definitions	PATO:0000461	IAO:0000115	A normal class is a special type of disease factor used as a control, that is, one which is not known to be affected by any disease; being approximately average or within certain limits; conforming with or constituting a norm or standard or level or type or social norm.	
+ERROR	multiple_definitions	PATO:0000461	IAO:0000115	A quality inhering in a bearer by virtue of the bearer's exhibiting no deviation from normal or average.	
+ERROR	multiple_definitions	PATO:0000461	IAO:0000115	Being approximately average or within certain limits; conforming with or constituting a norm or standard or level or type or social norm.	
+ERROR	multiple_definitions	PATO:0000461	IAO:0000115	The state of conforming to a type, standard, or regular pattern. (Merriam-Webster's Collegiate Dictionary, 10th ed)	
+ERROR	multiple_definitions	PATO:0000461	IAO:0000115	The state of the organism when it functions optimally without evidence of disease.	
+ERROR	multiple_definitions	UBERON:0000014	IAO:0000115	Any portion of the organ that covers that body and consists of a layer of epidermis and a layer of dermis.	
+ERROR	multiple_definitions	UBERON:0000014	IAO:0000115	Nonparenchymatous organ that consists of the epidermis, dermis and sets of hair and nails and which surrounds the entire body. Subdivisions of the skin surround various body parts; as a whole, the skin constitutes the external layer of the body.  Examples: There is only one skin.	
+ERROR	multiple_definitions	UBERON:0000014	IAO:0000115	The integument of an animal (as a fur-bearing mammal or a bird) separated from the body usually with its hair or feathers.	
+ERROR	multiple_definitions	UBERON:0000016	IAO:0000115	A pancreatic cell that produces and secretes hormones such as insulin and glucagon.	
+ERROR	multiple_definitions	UBERON:0000016	IAO:0000115	An Islet cell is a pancreatic cell that produces and secretes hormones such as insulin and glucagon.	
+ERROR	multiple_definitions	UBERON:0000016	IAO:0000115	The endocrine pancreas is made up of islet cells that produce insulin, glucagon and somatostatin[GO].	
+ERROR	multiple_definitions	UBERON:0000922	IAO:0000115	An embryo is a multicellular diploid eukaryote in its earliest stage of development, from the time of first cell division until birth, hatching, or germination.	
+ERROR	multiple_definitions	UBERON:0000922	IAO:0000115	Anatomical entity that comprises the organism in the early stages of growth and differentiation that are characterized by cleavage, the laying down of fundamental tissues, and the formation of primitive organs and organ systems. For example, for mammals, the process would begin with zygote formation and end with birth. For insects, the process would begin at zygote formation and end with larval hatching. For plant zygotic embryos, this would be from zygote formation to the end of seed dormancy. For plant vegetative embryos, this would be from the initial determination of the cell or group of cells to form an embryo until the point when the embryo becomes independent of the parent plant.	
+ERROR	multiple_definitions	UBERON:0002372	IAO:0000115	Portion of lymphoid tissue on either side of the throat.	
+ERROR	multiple_definitions	UBERON:0002372	IAO:0000115	either of the two small almond-shaped masses of lymph tissue found on either side of the oropharynx	
+ERROR	multiple_definitions	UBERON:0002530	IAO:0000115	A gland is an organ in an animal's body that synthesizes a substance for release such as hormones or breast milk, often into the bloodstream (endocrine gland) or into cavities inside the body or its outer surface (exocrine gland). A gland is an organ specialised for secretion[GO].	
+ERROR	multiple_definitions	UBERON:0002530	IAO:0000115	an organ that functions as a secretory or excretory organ	
+ERROR	multiple_definitions	UBPROP:0000001	IAO:0000115	    An alternate textual definition for a class taken unmodified from an external source. This definition may have been used to derive a generalized definition for the new class.    	
+ERROR	multiple_definitions	UBPROP:0000001	IAO:0000115	An alternate textual definition for a class taken unmodified from an external source. This definition may have been used to derive a generalized definition for the new class.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000096	IAO:0000115	A low-grade malignant lymphoma of follicular pattern in which there is no clear preponderance of one cell type (small or large) over another. The large cells, cleaved or noncleaved, are often 2-3 times larger in diameter than normal lymphocytes.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000096	IAO:0000115	A low-grade malignant lymphoma of predominantly follicular pattern. Follicles are of relatively uniform size and shape and the cells are usually somewhat larger than normal lymphocytes. Nuclei are irregular with prominent indentations and cytoplasm can rarely be identified. Cells exhibiting these characteristics are often called centrocytes.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000096	IAO:0000115	Malignant lymphoma in which the lymphomatous cells are clustered into identifiable nodules within the LYMPH NODES. The nodules resemble to some extent the GERMINAL CENTER of lymph node follicles and most likely represent neoplastic proliferation of lymph node-derived follicular center B-LYMPHOCYTES.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000096	IAO:0000115	Malignant lymphoma in which the majority of neoplastic cells within the follicles are large cleaved or noncleaved cells. The degree to which the follicular center cells retain their ability to form follicles varies with the state of B-cell transformation.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000096	IAO:0000115	The most common type of non-Hodgkin lymphoma.  It includes the most frequently seen morphologic variants which are: diffuse large B-cell lymphoma, follicular lymphoma, small lymphocytic lymphoma and marginal zone B-cell lymphoma. -- 2003	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000272	IAO:0000115	A glial tumor of the brain or spinal cord showing astrocytic differentiation.  It includes the following clinicopathological entities: pilocytic astrocytoma, diffuse astrocytoma, anaplastic astrocytoma, pleomorphic xanthoastrocytoma, subependymal giant cell astrocytoma, and glioblastoma.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000272	IAO:0000115	Neoplasms of the brain and spinal cord derived from glial cells which vary from histologically benign forms to highly anaplastic and malignant tumors. Fibrillary astrocytomas are the most common type and may be classified in order of increasing malignancy (grades I through IV). In the first two decades of life, astrocytomas tend to originate in the cerebellar hemispheres; in adults, they most frequently arise in the cerebrum and frequently undergo malignant transformation (MeSH).	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000272	IAO:0000115	Neoplasms of the brain and spinal cord derived from glial cells which vary from histologically benign forms to highly anaplastic and malignant tumors. Fibrillary astrocytomas are the most common type and may be classified in order of increasing malignancy (grades I through IV). In the first two decades of life, astrocytomas tend to originate in the cerebellar hemispheres; in adults, they most frequently arise in the cerebrum and frequently undergo malignant transformation. (From Devita et al., Cancer: Principles and Practice of Oncology, 5th ed, pp2013-7; Holland et al., Cancer Medicine, 3d ed, p1082)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000305	IAO:0000115	A carcinoma arising from the breast, most commonly the terminal ductal-lobular unit.  It is the most common malignant tumor in females.  Risk factors include country of birth, family history, menstrual and reproductive history, fibrocystic disease and epithelial hyperplasia, exogenous estrogens, contraceptive agents, and ionizing radiation. The vast majority of breast carcinomas are adenocarcinomas (ductal or lobular).  Breast carcinoma spreads by direct invasion, by the lymphatic route, and by the blood vessel route.  The most common site of lymph node involvement is the axilla.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000305	IAO:0000115	A carcinoma arising from the breast, most commonly the terminal ductal-lobular unit. It is the most common malignant tumor in females. Risk factors include country of birth, family history, menstrual and reproductive history, fibrocystic disease and epithelial hyperplasia, exogenous estrogens, contraceptive agents, and ionizing radiation. The vast majority of breast carcinomas are adenocarcinomas (ductal or lobular). Breast carcinoma spreads by direct invasion, by the lymphatic route, and by the blood vessel route. The most common site of lymph node involvement is the axilla.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000305	IAO:0000115	A carcinoma that derives_from breast tissue.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000305	IAO:0000115	A carcinoma that originates from breast tissue.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000305	IAO:0000115	Cancer of the human MAMMARY GLAND.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000305	IAO:0000115	Tumor or cancer of the human MAMMARY GLAND.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000305	IAO:0000115	Tumors or cancer of the human BREAST.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000319	IAO:0000115	A body system disease which occurs in the blood, heart, blood vessels or the lymphatic system that passes nutrients (such as amino acids and electrolytes), gases, hormones, blood cells or lymph to and from cells in the body to help fight diseases and help stabilize body temperature and pH to maintain homeostasis.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000319	IAO:0000115	A non-neoplastic or neoplastic disorder affecting the heart or the vessels (arteries, veins and lymph vessels).  Representative examples of non-neoplastic cardiovascular disorders are endocarditis and hypertension.  Representative examples of neoplastic cardiovascular disorders are endocardial myxoma and angiosarcoma. -- 2003	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000319	IAO:0000115	A non-neoplastic or neoplastic disorder affecting the heart or the vessels (arteries, veins and lymph vessels). Representative examples of non-neoplastic cardiovascular disorders are endocarditis and hypertension. Representative examples of neoplastic cardiovascular disorders are endocardial myxoma and angiosarcoma.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000319	IAO:0000115	Pathological conditions involving the CARDIOVASCULAR SYSTEM including the HEART; the BLOOD VESSELS; or the PERICARDIUM.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000326	IAO:0000115	A primary or metastatic malignant neoplasm involving the brain or spinal cord.  Representative examples include anaplastic astrocytoma, glioblastoma, anaplastic (malignant) meningioma, lymphoma, and metastatic carcinoma from another anatomic site.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000326	IAO:0000115	Benign and malignant central nervous system neoplasms derived from glial cells (i.e., astrocytes, oligodendrocytes, and ependymocytes). Astrocytes may give rise to astrocytomas ( ASTROCYTOMA) or glioblastoma multiforme (see GLIOBLASTOMA). Oligodendrocytes give rise to oligodendrogliomas ( OLIGODENDROGLIOMA) and ependymocytes may undergo transformation to become EPENDYMOMA; CHOROID PLEXUS NEOPLASMS; or colloid cysts of the third ventricle (MeSH).	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000400	IAO:0000115	A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000400	IAO:0000115	A metabolic disorder characterized by abnormally high blood sugar levels due to diminished production of insulin or insulin resistance/desensitization.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000519	IAO:0000115	A malignant form of astrocytoma histologically characterized by pleomorphism of cells, nuclear atypia, microhemorrhage, and necrosis. They may arise in any region of the central nervous system, with a predilection for the cerebral hemispheres, basal ganglia, and commissural pathways. Clinical presentation most frequently occurs in the fifth or sixth decade of life with focal neurologic signs or seizures (MeSH).	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000519	IAO:0000115	The most malignant astrocytic tumor (WHO grade IV).  It is composed of poorly differentiated neoplastic astrocytes and it is characterized by the presence of cellular polymorphism, nuclear atypia, brisk mitotic activity, vascular thrombosis, microvascular proliferation and necrosis. It typically affects adults and is preferentially located in the cerebral hemispheres. It may develop from diffuse astrocytoma WHO grade II or anaplastic astrocytoma (secondary glioblastoma), but more frequently, it manifests after a short clinical history de novo, without evidence of a less malignant precursor lesion (primary glioblastoma). Two histologic variants are recognized: giant cell glioblastoma and gliosarcoma. (WHO)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000569	IAO:0000115	A malignant lipomatous neoplasm that arises in fat cells in deep soft tissue retroperitoneum.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000569	IAO:0000115	A malignant tumor derived from primitive or embryonal lipoblastic cells. It may be composed of well-differentiated fat cells or may be dedifferentiated: myxoid (LIPOSARCOMA, MYXOID), round-celled, or pleomorphic, usually in association with a rich network of capillaries. Recurrences are common and dedifferentiated liposarcomas metastasize to the lungs or serosal surfaces. (From Dorland, 27th ed; Stedman, 25th ed)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000569	IAO:0000115	A usually painless malignant tumor that arises from adipose tissue.  Microscopically, it may contain a spectrum of neoplastic adipocytes ranging from lipoblasts to pleomorphic malignant adipocytes.  Representative morphologic variants include: well differentiated, dedifferentiated, pleomorphic, and myxoid/round cell liposarcoma.  The metastatic potential is higher in less differentiated tumors.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000589	IAO:0000115	A congenital (due to inherited enzyme abnormality) or acquired (due to failure of a metabolic important organ) disorder resulting from an abnormal metabolic process. -- 2003	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000589	IAO:0000115	A disease that involving errors in metabolic processes.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000589	IAO:0000115	Generic term for diseases caused by an abnormal metabolic process. It can be congenital due to inherited enzyme abnormality (METABOLISM, INBORN ERRORS) or acquired due to disease of an endocrine organ or failure of a metabolically important organ such as the liver. (Stedman, 26th ed)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000613	IAO:0000115	A liposarcoma containing myxomatous tissue. (Dorland, 27th ed)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000613	IAO:0000115	The most common type of liposarcoma.  It is composed of round to oval mesenchymal cells, small signet ring lipoblasts, and a rich network of capillaries in a myxoid stroma.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000677	IAO:0000115	Disorders in which there is a loss of ego boundaries or a gross impairment in reality testing with delusions or prominent hallucinations. (From DSM-IV, 1994)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000677	IAO:0000115	Psychiatric illness or diseases manifested by breakdowns in the adaptational process expressed primarily as abnormalities of thought, feeling, and behavior producing either distress or impairment of function (MeSH).	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000691	IAO:0000115	A cancer that affects connective tissue resulting in mesoderm proliferation.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000691	IAO:0000115	A malignant mesenchymal neoplasm arising exclusively from the soft tissues.  Representative examples include soft tissue sarcoma, extraosseous Ewing sarcoma/peripheral primitive neuroectodermal tumor, and malignant hemangiopericytoma.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000691	IAO:0000115	A malignant mesenchymal neoplasm arising from muscle tissue, adipose tissue, blood vessels, fibrous tissue, or other supportive tissues excluding the bones.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000691	IAO:0000115	A usually aggressive malignant mesenchymal cell tumor most commonly arising from muscle, fat, fibrous tissue, bone, cartilage, and blood vessels.  Sarcomas occur in both children and adults.  The prognosis depends largely on the degree of differentiation (grade) of the tumor.  Representative subtypes are liposarcoma, leiomyosarcoma, osteosarcoma, and chondrosarcoma.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000691	IAO:0000115	Neoplasms developing from some structure of the connective and subcutaneous tissue. The concept does not refer to neoplasms located in connective or soft tissue.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000691	IAO:0000115	Type of cancer of the bone, cartilage, fat, muscle, blood vessels, or other connective or supportive tissue.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000712	IAO:0000115	A group of pathological conditions characterized by sudden, non-convulsive loss of neurological function due to BRAIN ISCHEMIA or INTRACRANIAL HEMORRHAGES. Stroke is classified by the type of tissue NECROSIS, such as the anatomic location, vasculature involved, etiology, age of the affected individual, and hemorrhagic vs. non-hemorrhagic nature. (From Adams et al., Principles of Neurology, 6th ed, pp777-810)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000712	IAO:0000115	A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000712	IAO:0000115	A sudden, nonconvulsive loss of neurologic function due to an ischemic or hemorrhagic intracranial vascular event. In general, cerebrovascular accidents are classified by anatomic location in the brain, vascular distribution, etiology, age of the affected individual, and hemorrhagic vs. nonhemorrhagic nature (MeSH).	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000712	IAO:0000115	A sudden, nonconvulsive loss of neurologic function due to an ischemic or hemorrhagic intracranial vascular event. In general, cerebrovascular accidents are classified by anatomic location in the brain, vascular distribution, etiology, age of the affected individual, and hemorrhagic vs. nonhemorrhagic nature. (From Adams et al., Principles of Neurology, 6th ed, pp777-810)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000712	IAO:0000115	Tissue NECROSIS in any area of the brain, including the CEREBRAL HEMISPHERES, the CEREBELLUM, and the BRAIN STEM. Brain infarction is the result of a cascade of events initiated by inadequate blood flow through the brain that is followed by HYPOXIA and HYPOGLYCEMIA in brain tissue. Damage may be temporary, permanent, selective or pan-necrosis.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000756	IAO:0000115	A malignant neoplasm derived from cells that are capable of forming melanin, which may occur in the skin of any part of the body, in the eye, or, rarely, in the mucous membranes of the genitalia, anus, oral cavity, or other sites. It occurs mostly in adults and may originate de novo or from a pigmented nevus or malignant lentigo. Melanomas frequently metastasize widely, and the regional lymph nodes, liver, lungs, and brain are likely to be involved. The incidence of malignant skin melanomas is rising rapidly in all parts of the world. (Stedman, 25th ed; from Rook et al., Textbook of Dermatology, 4th ed, p2445)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000756	IAO:0000115	A malignant, usually aggressive tumor composed of atypical, neoplastic melanocytes.  Most often, melanomas arise in the skin (cutaneous melanomas) and include the following histologic subtypes: superficial spreading melanoma, nodular melanoma, acral lentiginous melanoma, and lentigo maligna melanoma.  Cutaneous melanomas may arise from acquired or congenital melanocytic or dysplastic nevi.  Melanomas may also arise in other anatomic sites including the gastrointestinal system, eye, urinary tract, and reproductive system.  Melanomas frequently metastasize to lymph nodes, liver, lungs, and brain.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000764	IAO:0000115	A Lentivirus infectious disease that results_in destruction of immune system, leading to life-threatening opportunistic infections and cancers, has_agent Human immunodeficiency virus 1 or has_agent Human immunodeficiency virus 2, which are transmitted_by sexual contact, transmitted_by transfer of blood, semen, vaginal fluid, pre-ejaculate, or breast milk, transmitted_by congenital method, and transmitted_by contaminated needles. The virus infects helper T cells (CD4+ T cells) which are directly or indirectly destroyed, macrophages, and dendritic cells. The infection has_symptom diarrhea, has_symptom fatigue, has_symptom fever, has_symptom vaginal yeast infection, has_symptom headache, has_symptom mouth sores, has_symptom muscle aches, has_symptom sore throat, and has_symptom swollen lymph glands.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000764	IAO:0000115	An infection caused by the human immunodeficiency virus.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0000764	IAO:0000115	Includes the spectrum of human immunodeficiency virus infections that range from asymptomatic seropositivity, thru AIDS-related complex (ARC), to acquired immunodeficiency syndrome (AIDS).	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0001271	IAO:0000115	A biological sex quality inhering in a population of multiple sexes.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0001271	IAO:0000115	The total number of individuals inhabiting a particular region or area.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0001360	IAO:0000115	A subclass of DIABETES MELLITUS that is not INSULIN-responsive or dependent (NIDDM). It is characterized initially by INSULIN RESISTANCE and HYPERINSULINEMIA; and eventually by GLUCOSE INTOLERANCE; HYPERGLYCEMIA; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop KETOSIS but often exhibit OBESITY.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0001360	IAO:0000115	A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0001378	IAO:0000115	A bone marrow-based plasma cell neoplasm characterized by a serum monoclonal protein and skeletal destruction with osteolytic lesions, pathological fractures, bone pain, hypercalcemia, and anemia.  Clinical variants include non-secretory myeloma, smoldering myeloma, indolent myeloma, and plasma cell leukemia. (WHO, 2001)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0001378	IAO:0000115	A malignancy of mature PLASMA CELLS engaging in monoclonal immunoglobulin production. It is characterized by hyperglobulinemia, excess Bence-Jones proteins (free monoclonal IMMUNOGLOBULIN LIGHT CHAINS) in the urine, skeletal destruction, bone pain, and fractures. Other features include ANEMIA; HYPERCALCEMIA; and RENAL INSUFFICIENCY.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0001378	IAO:0000115	A myeloma that is located_in the plasma cells in bone marrow.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0001461	IAO:0000115	A control role is borne by a material in a process in which results obtained from an experimental sample and a control sample are compared.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0001461	IAO:0000115	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0002508	IAO:0000115	A neurodegenerative disease that results_from degeneration of the central nervous system that often impairs the sufferer's motor skills, speech, and other functions.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0002508	IAO:0000115	A progressive, degenerative neurologic disease characterized by a TREMOR that is maximal at rest, retropulsion (i.e. a tendency to fall backwards), rigidity, stooped posture, slowness of voluntary movements, and a masklike facial expression. Pathologic features include loss of melanin containing neurons in the substantia nigra and other pigmented nuclei of the brainstem. LEWY BODIES are present in the substantia nigra and locus coeruleus but may also be found in a related condition (LEWY BODY DISEASE, DIFFUSE) characterized by dementia in combination with varying degrees of parkinsonism. (Adams et al., Principles of Neurology, 6th ed, p1059, pp1067-75)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0003047	IAO:0000115	A Hepacivirus infectious disease and is_a viral hepatitis that results_in inflammation located_in liver, has_agent Hepatitis C virus, which is transmitted_by blood from an infected person enters the body of an uninfected person. The infection has_symptom fever, has_symptom fatigue, has_symptom loss of appetite, has_symptom nausea, has_symptom vomiting, has_symptom abdominal pain, has_symptom clay-colored bowel movements, has_symptom joint pain, and has_symptom jaundice.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0003047	IAO:0000115	A Hepacivirus infectious disease which is a chronic bloodborne infectious disease caused by Hepatitis C virus. The symptoms include fever, fatigue, loss of appetite, nausea, vomiting, abdominal pain, clay-colored bowel movements, joint pain and jaundice.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0003047	IAO:0000115	A viral hepatitis and is_a Hepacivirus infectious disease, that results_in inflammation located_in liver, has_agent Hepatitis C virus, which is transmitted_by blood from an infected person enters the body of an uninfected person. The infection has_symptom fever, has_symptom fatigue, has_symptom loss of appetite, has_symptom nausea, has_symptom vomiting, has_symptom abdominal pain, has_symptom clay-colored bowel movements, has_symptom joint pain, and has_symptom jaundice.	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0003918	IAO:0000115	A disorder characterized by recurrent apneas during sleep despite persistent respiratory efforts. It is due to upper airway obstruction. The respiratory pauses may induce HYPERCAPNIA or HYPOXIA. Cardiac arrhythmias and elevation of systemic and pulmonary arterial pressures may occur. Frequent partial arousals occur throughout sleep, resulting in relative SLEEP DEPRIVATION and daytime tiredness. Associated conditions include OBESITY; ACROMEGALY; MYXEDEMA; micrognathia; MYOTONIC DYSTROPHY; adenotonsilar dystrophy; and NEUROMUSCULAR DISEASES. (From Adams et al., Principles of Neurology, 6th ed, p395)	
+ERROR	multiple_definitions	http://www.ebi.ac.uk/efo/EFO_0003918	IAO:0000115	A disorder characterized by recurrent episodic disruptions of breathing during sleep. It is caused by the intermittent relaxation of pharyngeal muscles leading to the narrowing or complete blockage of the upper airway. This results in compensatory arousal from sleep to breathe again. An anatomically narrow airway from body habitus or enlarged pharyngeal structures may also predispose to obstruction. Clinical presentation usually includes snoring, daytime sleepiness, difficulty concentrating and fatigue. Clinical course may progress to chronic hypoxemia with cardiovascular and cerebrovascular sequelae.	
+ERROR	missing_ontology_license	http://www.ebi.ac.uk/efo	dc:license		
+ERROR	missing_ontology_title	http://www.ebi.ac.uk/efo	dc11:title		
+WARN	annotation_whitespace	8e2d2963bf26723f99c1c11404741252	oboInOwl:source	DOI:10.1146/annurev.cellbio.22.010605.093317 Hartenstein V, Blood cells and blood cell development in the animal kingdom. Annual review of cell and developmental biology (2006) 	
+WARN	annotation_whitespace	CL:0002563	IAO:0000115	An epithelial cell of the intestine. [ GOC:tfm ] 	
+WARN	annotation_whitespace	UBERON:0006314	IAO:0000115	Liquid components of living organisms. includes fluids that are excreted or secreted from the body as well as body water that normally is not. 	
+WARN	annotation_whitespace	http://www.ebi.ac.uk/efo/EFO_0007725	http://www.ebi.ac.uk/efo/BilaDO_definition_citation	 BilaDO:0000002	
+WARN	annotation_whitespace	http://www.ebi.ac.uk/efo/EFO_0007725	http://www.ebi.ac.uk/efo/EV_definition_citation	 EV:0300001	
+WARN	annotation_whitespace	http://www.ebi.ac.uk/efo/EFO_0007725	http://www.ebi.ac.uk/efo/FMA_definition_citation	 FMA:72652	
+WARN	annotation_whitespace	http://www.ebi.ac.uk/efo/EFO_0007725	http://www.ebi.ac.uk/efo/HsapDv_definition_citation	 HsapDv:0000002	
+WARN	annotation_whitespace	http://www.ebi.ac.uk/efo/EFO_0007725	http://www.ebi.ac.uk/efo/MmusDv_definition_citation	 MmusDv:0000002	
+WARN	annotation_whitespace	http://www.ebi.ac.uk/efo/EFO_0007725	http://www.ebi.ac.uk/efo/OGES_definition_citation	 OGES:000022	
+WARN	annotation_whitespace	http://www.ebi.ac.uk/efo/EFO_0007725	http://www.ebi.ac.uk/efo/WBls_definition_citation	 WBls:0000092	
+WARN	annotation_whitespace	http://www.ebi.ac.uk/efo/EFO_0007725	http://www.ebi.ac.uk/efo/WBls_definition_citation	 WBls:0000102	
+WARN	annotation_whitespace	http://www.ebi.ac.uk/efo/EFO_0007725	http://www.ebi.ac.uk/efo/XAO_definition_citation	 XAO:1000012	
+WARN	annotation_whitespace	http://www.ebi.ac.uk/efo/alternative_term	IAO:0000115	An alternative label for a given entity such as a commonly used abbreviation or synonym. 	
+WARN	multiple_asserted_superclasses	CL:0000160	rdfs:subClassOf	CL:0000066	
+WARN	multiple_asserted_superclasses	CL:0000160	rdfs:subClassOf	CL:0000151	
+WARN	multiple_asserted_superclasses	CL:0000510	rdfs:subClassOf	CL:0000066	
+WARN	multiple_asserted_superclasses	CL:0000510	rdfs:subClassOf	CL:0000151	
+WARN	multiple_asserted_superclasses	CL:0000723	rdfs:subClassOf	CL:0000034	
+WARN	multiple_asserted_superclasses	CL:0000723	rdfs:subClassOf	CL:0002371	
+WARN	multiple_asserted_superclasses	CL:0000786	rdfs:subClassOf	CL:0000151	
+WARN	multiple_asserted_superclasses	CL:0000786	rdfs:subClassOf	CL:0000946	
+WARN	multiple_asserted_superclasses	CL:0002410	rdfs:subClassOf	CL:0000057	
+WARN	multiple_asserted_superclasses	CL:0002410	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0002966	
+WARN	multiple_asserted_superclasses	CL:0005019	rdfs:subClassOf	CL:0000151	
+WARN	multiple_asserted_superclasses	CL:0005019	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0002966	
+WARN	multiple_asserted_superclasses	UBERON:0000016	rdfs:subClassOf	CL:0000151	
+WARN	multiple_asserted_superclasses	UBERON:0000016	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0000787	
+WARN	multiple_asserted_superclasses	UBERON:0000087	rdfs:subClassOf	CL:0002321	
+WARN	multiple_asserted_superclasses	UBERON:0000087	rdfs:subClassOf	UBERON:0002050	
+WARN	multiple_asserted_superclasses	UBERON:0000109	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0000399	
+WARN	multiple_asserted_superclasses	UBERON:0000109	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0000787	
+WARN	multiple_asserted_superclasses	http://www.ebi.ac.uk/efo/EFO_0000272	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0000326	
+WARN	multiple_asserted_superclasses	http://www.ebi.ac.uk/efo/EFO_0000272	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0005543	
+WARN	multiple_asserted_superclasses	http://www.ebi.ac.uk/efo/EFO_0002508	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0000618	
+WARN	multiple_asserted_superclasses	http://www.ebi.ac.uk/efo/EFO_0002508	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0009533	
+WARN	multiple_asserted_superclasses	http://www.ebi.ac.uk/efo/EFO_0003877	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0000684	
+WARN	multiple_asserted_superclasses	http://www.ebi.ac.uk/efo/EFO_0003877	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0008568	
+WARN	multiple_asserted_superclasses	http://www.ebi.ac.uk/efo/EFO_0004905	rdfs:subClassOf	CL:0002248	
+WARN	multiple_asserted_superclasses	http://www.ebi.ac.uk/efo/EFO_0004905	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0002958	
+WARN	multiple_asserted_superclasses	http://www.ebi.ac.uk/efo/EFO_0009448	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0004244	
+WARN	multiple_asserted_superclasses	http://www.ebi.ac.uk/efo/EFO_0009448	rdfs:subClassOf	http://www.ebi.ac.uk/efo/EFO_0006890	
+WARN	missing_definition	CHEBI:2365	IAO:0000600		
+WARN	missing_definition	CHEBI:24431	IAO:0000600		
+WARN	missing_definition	CHEBI:379896	IAO:0000600		
+WARN	missing_definition	CL:0000010	IAO:0000600		
+WARN	missing_definition	CL:0000034	IAO:0000600		
+WARN	missing_definition	CL:0000037	IAO:0000600		
+WARN	missing_definition	CL:0000057	IAO:0000600		
+WARN	missing_definition	CL:0000066	IAO:0000600		
+WARN	missing_definition	CL:0000081	IAO:0000600		
+WARN	missing_definition	CL:0000084	IAO:0000600		
+WARN	missing_definition	CL:0000097	IAO:0000115		
+WARN	missing_definition	CL:0000097	IAO:0000600		
+WARN	missing_definition	CL:0000115	IAO:0000600		
+WARN	missing_definition	CL:0000125	IAO:0000600		
+WARN	missing_definition	CL:0000127	IAO:0000600		
+WARN	missing_definition	CL:0000128	IAO:0000600		
+WARN	missing_definition	CL:0000129	IAO:0000600		
+WARN	missing_definition	CL:0000136	IAO:0000600		
+WARN	missing_definition	CL:0000151	IAO:0000600		
+WARN	missing_definition	CL:0000160	IAO:0000600		
+WARN	missing_definition	CL:0000163	IAO:0000600		
+WARN	missing_definition	CL:0000168	IAO:0000600		
+WARN	missing_definition	CL:0000169	IAO:0000600		
+WARN	missing_definition	CL:0000171	IAO:0000600		
+WARN	missing_definition	CL:0000173	IAO:0000600		
+WARN	missing_definition	CL:0000235	IAO:0000600		
+WARN	missing_definition	CL:0000236	IAO:0000600		
+WARN	missing_definition	CL:0000387	IAO:0000600		
+WARN	missing_definition	CL:0000451	IAO:0000600		
+WARN	missing_definition	CL:0000492	IAO:0000115		
+WARN	missing_definition	CL:0000492	IAO:0000600		
+WARN	missing_definition	CL:0000510	IAO:0000600		
+WARN	missing_definition	CL:0000540	IAO:0000600		
+WARN	missing_definition	CL:0000542	IAO:0000600		
+WARN	missing_definition	CL:0000557	IAO:0000600		
+WARN	missing_definition	CL:0000584	IAO:0000600		
+WARN	missing_definition	CL:0000622	IAO:0000600		
+WARN	missing_definition	CL:0000623	IAO:0000600		
+WARN	missing_definition	CL:0000624	IAO:0000115		
+WARN	missing_definition	CL:0000624	IAO:0000600		
+WARN	missing_definition	CL:0000700	IAO:0000600		
+WARN	missing_definition	CL:0000723	IAO:0000600		
+WARN	missing_definition	CL:0000738	IAO:0000600		
+WARN	missing_definition	CL:0000766	IAO:0000115		
+WARN	missing_definition	CL:0000766	IAO:0000600		
+WARN	missing_definition	CL:0000786	IAO:0000600		
+WARN	missing_definition	CL:0000789	IAO:0000115		
+WARN	missing_definition	CL:0000789	IAO:0000600		
+WARN	missing_definition	CL:0000791	IAO:0000115		
+WARN	missing_definition	CL:0000791	IAO:0000600		
+WARN	missing_definition	CL:0000815	IAO:0000600		
+WARN	missing_definition	CL:0000837	IAO:0000600		
+WARN	missing_definition	CL:0000839	IAO:0000600		
+WARN	missing_definition	CL:0000864	IAO:0000115		
+WARN	missing_definition	CL:0000864	IAO:0000600		
+WARN	missing_definition	CL:0000878	IAO:0000115		
+WARN	missing_definition	CL:0000878	IAO:0000600		
+WARN	missing_definition	CL:0000895	IAO:0000115		
+WARN	missing_definition	CL:0000895	IAO:0000600		
+WARN	missing_definition	CL:0000897	IAO:0000115		
+WARN	missing_definition	CL:0000897	IAO:0000600		
+WARN	missing_definition	CL:0000905	IAO:0000115		
+WARN	missing_definition	CL:0000905	IAO:0000600		
+WARN	missing_definition	CL:0000945	IAO:0000115		
+WARN	missing_definition	CL:0000945	IAO:0000600		
+WARN	missing_definition	CL:0000946	IAO:0000115		
+WARN	missing_definition	CL:0000946	IAO:0000600		
+WARN	missing_definition	CL:0001008	IAO:0000115		
+WARN	missing_definition	CL:0001008	IAO:0000600		
+WARN	missing_definition	CL:0001063	IAO:0000600		
+WARN	missing_definition	CL:0001067	IAO:0000600		
+WARN	missing_definition	CL:0001069	IAO:0000600		
+WARN	missing_definition	CL:0001071	IAO:0000600		
+WARN	missing_definition	CL:0002010	IAO:0000115		
+WARN	missing_definition	CL:0002010	IAO:0000600		
+WARN	missing_definition	CL:0002028	IAO:0000115		
+WARN	missing_definition	CL:0002028	IAO:0000600		
+WARN	missing_definition	CL:0002031	IAO:0000115		
+WARN	missing_definition	CL:0002031	IAO:0000600		
+WARN	missing_definition	CL:0002032	IAO:0000115		
+WARN	missing_definition	CL:0002032	IAO:0000600		
+WARN	missing_definition	CL:0002033	IAO:0000115		
+WARN	missing_definition	CL:0002033	IAO:0000600		
+WARN	missing_definition	CL:0002034	IAO:0000115		
+WARN	missing_definition	CL:0002034	IAO:0000600		
+WARN	missing_definition	CL:0002079	IAO:0000600		
+WARN	missing_definition	CL:0002204	IAO:0000600		
+WARN	missing_definition	CL:0002248	IAO:0000600		
+WARN	missing_definition	CL:0002275	IAO:0000600		
+WARN	missing_definition	CL:0002321	IAO:0000600		
+WARN	missing_definition	CL:0002322	IAO:0000600		
+WARN	missing_definition	CL:0002334	IAO:0000600		
+WARN	missing_definition	CL:0002371	IAO:0000600		
+WARN	missing_definition	CL:0002410	IAO:0000600		
+WARN	missing_definition	CL:0002419	IAO:0000115		
+WARN	missing_definition	CL:0002419	IAO:0000600		
+WARN	missing_definition	CL:0002453	IAO:0000600		
+WARN	missing_definition	CL:0002563	IAO:0000600		
+WARN	missing_definition	CL:0005019	IAO:0000600		
+WARN	missing_definition	EO:0007337	IAO:0000600		
+WARN	missing_definition	HANCESTRO:0004	IAO:0000115		
+WARN	missing_definition	HANCESTRO:0004	IAO:0000600		
+WARN	missing_definition	HANCESTRO:0005	IAO:0000600		
+WARN	missing_definition	HANCESTRO:0006	IAO:0000600		
+WARN	missing_definition	HANCESTRO:0008	IAO:0000600		
+WARN	missing_definition	HANCESTRO:0014	IAO:0000600		
+WARN	missing_definition	HANCESTRO:0016	IAO:0000600		
+WARN	missing_definition	HANCESTRO:0487	IAO:0000115		
+WARN	missing_definition	HANCESTRO:0487	IAO:0000600		
+WARN	missing_definition	HANCESTRO:0568	IAO:0000115		
+WARN	missing_definition	HANCESTRO:0568	IAO:0000600		
+WARN	missing_definition	IAO:0000112	IAO:0000115		
+WARN	missing_definition	IAO:0000112	IAO:0000600		
+WARN	missing_definition	IAO:0000115	IAO:0000115		
+WARN	missing_definition	IAO:0000115	IAO:0000600		
+WARN	missing_definition	IAO:0000117	IAO:0000115		
+WARN	missing_definition	IAO:0000117	IAO:0000600		
+WARN	missing_definition	IAO:0000232	IAO:0000115		
+WARN	missing_definition	IAO:0000232	IAO:0000600		
+WARN	missing_definition	IAO:0000412	IAO:0000115		
+WARN	missing_definition	IAO:0000412	IAO:0000600		
+WARN	missing_definition	IAO:0000425	IAO:0000115		
+WARN	missing_definition	IAO:0000425	IAO:0000600		
+WARN	missing_definition	NCBITaxon:10088	IAO:0000600		
+WARN	missing_definition	NCBITaxon:10090	IAO:0000115		
+WARN	missing_definition	NCBITaxon:10090	IAO:0000600		
+WARN	missing_definition	NCBITaxon:10114	IAO:0000115		
+WARN	missing_definition	NCBITaxon:10114	IAO:0000600		
+WARN	missing_definition	NCBITaxon:10116	IAO:0000115		
+WARN	missing_definition	NCBITaxon:10116	IAO:0000600		
+WARN	missing_definition	NCBITaxon:2	IAO:0000115		
+WARN	missing_definition	NCBITaxon:2	IAO:0000600		
+WARN	missing_definition	NCBITaxon:2759	IAO:0000115		
+WARN	missing_definition	NCBITaxon:2759	IAO:0000600		
+WARN	missing_definition	NCBITaxon:28901	IAO:0000115		
+WARN	missing_definition	NCBITaxon:28901	IAO:0000600		
+WARN	missing_definition	NCBITaxon:33154	IAO:0000600		
+WARN	missing_definition	NCBITaxon:33208	IAO:0000600		
+WARN	missing_definition	NCBITaxon:5821	IAO:0000115		
+WARN	missing_definition	NCBITaxon:5821	IAO:0000600		
+WARN	missing_definition	NCBITaxon:6183	IAO:0000115		
+WARN	missing_definition	NCBITaxon:6183	IAO:0000600		
+WARN	missing_definition	NCBITaxon:6237	IAO:0000115		
+WARN	missing_definition	NCBITaxon:6237	IAO:0000600		
+WARN	missing_definition	NCBITaxon:6239	IAO:0000115		
+WARN	missing_definition	NCBITaxon:6239	IAO:0000600		
+WARN	missing_definition	NCBITaxon:6339	IAO:0000600		
+WARN	missing_definition	NCBITaxon:7165	IAO:0000115		
+WARN	missing_definition	NCBITaxon:7165	IAO:0000600		
+WARN	missing_definition	NCBITaxon:7215	IAO:0000115		
+WARN	missing_definition	NCBITaxon:7215	IAO:0000600		
+WARN	missing_definition	NCBITaxon:7227	IAO:0000115		
+WARN	missing_definition	NCBITaxon:7227	IAO:0000600		
+WARN	missing_definition	NCBITaxon:7955	IAO:0000115		
+WARN	missing_definition	NCBITaxon:7955	IAO:0000600		
+WARN	missing_definition	NCBITaxon:9606	IAO:0000115		
+WARN	missing_definition	NCBITaxon:9606	IAO:0000600		
+WARN	missing_definition	OBI:0000181	IAO:0000600		
+WARN	missing_definition	OBI:0100026	IAO:0000600		
+WARN	missing_definition	PATO:0000047	IAO:0000600		
+WARN	missing_definition	PATO:0000068	IAO:0000115		
+WARN	missing_definition	PATO:0000068	IAO:0000600		
+WARN	missing_definition	PATO:0000069	IAO:0000600		
+WARN	missing_definition	PATO:0000169	IAO:0000600		
+WARN	missing_definition	PATO:0000383	IAO:0000600		
+WARN	missing_definition	PATO:0000384	IAO:0000600		
+WARN	missing_definition	PATO:0000461	IAO:0000600		
+WARN	missing_definition	PATO:0001422	IAO:0000600		
+WARN	missing_definition	RO:0002161	IAO:0000600		
+WARN	missing_definition	RO:0002174	IAO:0000600		
+WARN	missing_definition	UBERON:0000006	IAO:0000600		
+WARN	missing_definition	UBERON:0000014	IAO:0000600		
+WARN	missing_definition	UBERON:0000016	IAO:0000600		
+WARN	missing_definition	UBERON:0000029	IAO:0000600		
+WARN	missing_definition	UBERON:0000070	IAO:0000600		
+WARN	missing_definition	UBERON:0000087	IAO:0000600		
+WARN	missing_definition	UBERON:0000109	IAO:0000600		
+WARN	missing_definition	UBERON:0000178	IAO:0000600		
+WARN	missing_definition	UBERON:0000310	IAO:0000600		
+WARN	missing_definition	UBERON:0000467	IAO:0000600		
+WARN	missing_definition	UBERON:0000468	IAO:0000115		
+WARN	missing_definition	UBERON:0000468	IAO:0000600		
+WARN	missing_definition	UBERON:0000473	IAO:0000600		
+WARN	missing_definition	UBERON:0000922	IAO:0000600		
+WARN	missing_definition	UBERON:0000955	IAO:0000600		
+WARN	missing_definition	UBERON:0000956	IAO:0000600		
+WARN	missing_definition	UBERON:0001013	IAO:0000600		
+WARN	missing_definition	UBERON:0001264	IAO:0000600		
+WARN	missing_definition	UBERON:0001911	IAO:0000600		
+WARN	missing_definition	UBERON:0002048	IAO:0000600		
+WARN	missing_definition	UBERON:0002050	IAO:0000600		
+WARN	missing_definition	UBERON:0002106	IAO:0000600		
+WARN	missing_definition	UBERON:0002108	IAO:0000600		
+WARN	missing_definition	UBERON:0002113	IAO:0000600		
+WARN	missing_definition	UBERON:0002367	IAO:0000600		
+WARN	missing_definition	UBERON:0002371	IAO:0000600		
+WARN	missing_definition	UBERON:0002372	IAO:0000600		
+WARN	missing_definition	UBERON:0002421	IAO:0000600		
+WARN	missing_definition	UBERON:0002530	IAO:0000600		
+WARN	missing_definition	UBERON:0004026	IAO:0000600		
+WARN	missing_definition	UBERON:0006314	IAO:0000600		
+WARN	missing_definition	UBERON:0007795	IAO:0000600		
+WARN	missing_definition	UBERON:0012168	IAO:0000600		
+WARN	missing_definition	UBPROP:0000001	IAO:0000600		
+WARN	missing_definition	UBPROP:0000002	IAO:0000600		
+WARN	missing_definition	UBPROP:0000003	IAO:0000600		
+WARN	missing_definition	UBPROP:0000007	IAO:0000115		
+WARN	missing_definition	UBPROP:0000007	IAO:0000600		
+WARN	missing_definition	UBPROP:0000008	IAO:0000115		
+WARN	missing_definition	UBPROP:0000008	IAO:0000600		
+WARN	missing_definition	UBPROP:0000202	IAO:0000115		
+WARN	missing_definition	UBPROP:0000202	IAO:0000600		
+WARN	missing_definition	ZFA:0000669	IAO:0000600		
+WARN	missing_definition	http://purl.obolibrary.org/obo/uberon#spatially_disjoint_from	IAO:0000600		
+WARN	missing_definition	http://purl.obolibrary.org/obo/uberon/core#homologous_in	IAO:0000115		
+WARN	missing_definition	http://purl.obolibrary.org/obo/uberon/core#homologous_in	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/AAO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ABA_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ABA_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/AEO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/AEO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/BFO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/BILA_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/BILA_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/BILS_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/BILS_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/BM_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/BM_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/BTO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/BilaDO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/BilaDO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/CALOHA_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/CALOHA_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/CARO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/CL_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/DOID_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000001	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000096	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000200	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000272	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000305	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000311	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000313	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000319	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000323	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000324	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000326	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000399	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000400	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000408	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000519	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000569	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000586	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000586	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000589	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000606	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000613	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000616	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000618	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000635	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000677	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000684	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000691	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000712	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000756	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000763	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000764	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000768	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000786	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000786	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000787	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0000787	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0001271	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0001272	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0001342	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0001342	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0001360	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0001378	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0001461	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0001642	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0001663	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0002071	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0002508	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0002544	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0002563	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0002565	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0002592	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0002660	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0002958	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0002966	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0002966	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0003045	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0003047	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0003331	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0003331	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0003818	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0003877	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0003918	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0004196	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0004219	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0004244	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0004416	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0004416	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0004472	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0004905	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0004906	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0005180	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0005181	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0005537	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0005543	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0005741	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0005774	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0005857	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0006531	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0006890	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0007075	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0007725	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0007727	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0008568	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0009448	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0009533	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_1000158	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_1000294	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EHDAA2_RETIRED_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EHDAA2_RETIRED_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EHDAA2_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EHDAA2_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EHDAA_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EMAPA_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ENVO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ENVO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EVM_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/EV_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/FBbt_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/FBdv_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/FMA_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/GAID_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/GAID_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/GOC_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/GOC_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/HAO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/HAO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/HsapDv_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/HsapDv_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ICD10_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ICD10_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ICD9_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/IDOMAL_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/IDO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ISBN_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MAT_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MAT_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MA_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MA_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MCC_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MCC_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MFO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MFO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MIAA_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MIAA_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MONDO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MONDO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MSH_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MSH_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MmusDv_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/MmusDv_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/NCI_Metathesaurus_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/NCI_Metathesaurus_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/NIFSTD_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/NIFSTD_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/NIF_GrossAnatomy_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/NIF_GrossAnatomy_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/OGEM_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/OGEM_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/OGES_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/OGES_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/OMIM_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/OMIM_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/OpenCyc_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/OpenCyc_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/PATO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/PATO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/PMID_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/PMID_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/RETIRED_EHDAA2_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/RETIRED_EHDAA2_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/RGD_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/RGD_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/SAEL_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/SAEL_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/TAO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/TAO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/UBERON_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/UBERON_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/UMLS_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/UMLS_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/VHOG_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/VHOG_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/VSAO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/VSAO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/WBbt_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/WBbt_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/WBls_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/WBls_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/Wikipedia_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/Wikipedia_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/XAO_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/XAO_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ZFA_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ZFA_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ZFS_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/ZFS_definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/alternative_term	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/definition_citation	IAO:0000600		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/galen_definition_citation	IAO:0000115		
+WARN	missing_definition	http://www.ebi.ac.uk/efo/galen_definition_citation	IAO:0000600		
+WARN	missing_definition	oboInOwl:hasAlternativeId	IAO:0000115		
+WARN	missing_definition	oboInOwl:hasAlternativeId	IAO:0000600		
+WARN	missing_definition	oboInOwl:hasDbXref	IAO:0000115		
+WARN	missing_definition	oboInOwl:hasDbXref	IAO:0000600		
+WARN	missing_definition	oboInOwl:hasExactSynonym	IAO:0000115		
+WARN	missing_definition	oboInOwl:hasExactSynonym	IAO:0000600		
+WARN	missing_definition	oboInOwl:hasOBONamespace	IAO:0000115		
+WARN	missing_definition	oboInOwl:hasOBONamespace	IAO:0000600		
+WARN	missing_definition	oboInOwl:hasRelatedSynonym	IAO:0000115		
+WARN	missing_definition	oboInOwl:hasRelatedSynonym	IAO:0000600		
+WARN	missing_definition	oboInOwl:inSubset	IAO:0000115		
+WARN	missing_definition	oboInOwl:inSubset	IAO:0000600		
+WARN	missing_definition	oboInOwl:shorthand	IAO:0000115		
+WARN	missing_definition	oboInOwl:shorthand	IAO:0000600		
+WARN	missing_definition	http://www.ifomis.org/bfo/1.1/snap#Disposition	IAO:0000600		
+WARN	missing_definition	http://www.ifomis.org/bfo/1.1/snap#MaterialEntity	IAO:0000600		
+WARN	missing_definition	http://www.ifomis.org/bfo/1.1/snap#Quality	IAO:0000600		
+WARN	missing_definition	http://www.ifomis.org/bfo/1.1/snap#Role	IAO:0000600		
+WARN	missing_definition	http://www.ifomis.org/bfo/1.1/snap#SpecificallyDependentContinuant	IAO:0000600		
+WARN	missing_definition	http://www.ifomis.org/bfo/1.1/span#ProcessualEntity	IAO:0000600		
+WARN	invalid_xref	http://www.ebi.ac.uk/efo/EFO_0005741	oboInOwl:hasDbXref	IDO_0000436	
+INFO	lowercase_definition	CL:0000127	IAO:0000115	cells) are irregularly shaped with many long processes, including those with \"end feet\" which form the glial (limiting) membrane and directly and indirectly contribute to the blood-brain barrier. They regulate the extracellular ionic and chemical environment, and	
+INFO	lowercase_definition	UBERON:0000473	IAO:0000115	gonad of a male animal, produces and releases sperm.	
+INFO	lowercase_definition	UBERON:0002371	IAO:0000115	flexible tissue found in the hollow interior of bones. In adults, marrow in large bones produces new blood cells[WP].	
+INFO	lowercase_definition	UBERON:0002372	IAO:0000115	either of the two small almond-shaped masses of lymph tissue found on either side of the oropharynx	
+INFO	lowercase_definition	UBERON:0002530	IAO:0000115	an organ that functions as a secretory or excretory organ	
+INFO	lowercase_definition	UBERON:0004026	IAO:0000115	the caudally located, distinct elevation of a transient proliferating cell mass of the fetal subventricular zone, located adjacent to the lateral ventricle	
+INFO	lowercase_definition	UBERON:0007795	IAO:0000115	    The serous fluid which accumulates in the peritoneal cavity in ascites.    	
+INFO	lowercase_definition	UBERON:0012168	IAO:0000115	blood that remains in the placenta and in the attached umbilical cord after childbirth[WP].	
+INFO	lowercase_definition	UBPROP:0000001	IAO:0000115	    An alternate textual definition for a class taken unmodified from an external source. This definition may have been used to derive a generalized definition for the new class.    	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/AAO_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/AAO_definition_citation is an annotation property that is drawn from AAO	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/BFO_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/BFO_definition_citation is an annotation property that is drawn from BFO	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/BTO_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/BTO_definition_citation is an annotation property that is drawn from BTO	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/CARO_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/CARO_definition_citation is an annotation property that is drawn from CARO	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/CL_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/CL_definition_citation is an annotation property that is drawn from CL	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/DOID_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/DOID_definition_citation is an annotation property that is drawn from DOID	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EFO_0000618	IAO:0000115	a general class of medical conditions affecting the nervous system.	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EFO_0002563	IAO:0000115	mouse embryo stage at age 12.5 days	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EFO_0002565	IAO:0000115	mouse embryo stage at age 14.5 days	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EFO_0002958	IAO:0000115	experimental cell is a cell which is experimentally derived such as a cell line cell, or a cell differentiated in culture. Experimentally derived cells may have diffrent properties from the cell from which they originally derived, such as through gene expression changes.	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EFO_0005537	IAO:0000115	an aggressive subtype of breast cancer that is estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EFO_0006531	IAO:0000115	human melanoma cell line designated 888-mel has been developed from the resected tumor of a 26-year old Caucasian female (patient 888) diagnosed with metastatic melanoma - See more at: https://ttc.nci.nih.gov/opportunities/opportunity.php?opp_id=34826089312#sthash.to7UCByK.dpuf	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EFO_0006890	IAO:0000115	the formation of excess fibrous connective tissue in an organ or tissue in a reparative or reactive process. This can be a reactive, benign, or pathological state.	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EFO_0007727	IAO:0000115	        Both CAST/EiJ and CASA/RkJ (Stock No. 000735) were derived from wild mice trapped in Thailand. CAST is often combined with the common laboratory strains to generate F1 hybrids with high levels of heterozygosity for use in genetic mapping. Unlike the wild-derived strain SPRET, male F1 mice from a CAST cross are fertile.        Like CASA, CAST is resistant to flavivirus infection. The flavivirus family includes pathogens responsible for dengue, yellow fever and several forms of encephalitis. Most common laboratory mice are sensitive to flavivirus infection. Resistance/sensitivity is conferred through the oligoA synthase Oas1b locus. In a comparison of multiple strains, CASA and CAST exhibit reduced numbers of retinal ganglion cells as compared to common laboratory strains and other wild-derived strains. In a 2015 study comparing CAST/Ei and the other Collaborative Cross inbred strains (A/J, C3H/HeJ, C57BL/6J, DBA/2J, 129S1/SvImJ, NOD/LtJ, NZO/HlLtJ, and WSB/EiJ), dorsal root ganglion neurons from CAST/Ei mice demonstrate a significantly improved ability to regenerate axons in an inhibitory environment as determined by an increase in number of neurons with neurites and longer axonal process per neuron under both naive and pre-injured conditions. In addition, as compared to neurons from C57BL/6 mice, CAST/Ei neurons exhibit more extensive axonal regeneration in the spinal cord and optic nerve following injury and show greater sprouting following ischemic stroke.        Wild-derived mice are genetically distinct from common laboratory mice for a number of complex phenotypic characteristics and are valuable tools for genetic mapping, evolution and systematics research.    	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EHDAA_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/EHDAA_definition_citation is an annotation property that is drawn from EHDAA	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EMAPA_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/EMAPA_definition_citation is an annotation property that is drawn from EMAPA	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EVM_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/EVM_definition_citation is an annotation property that is drawn from EVM	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EV_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/EV_definition_citation is an annotation property that is drawn from EV	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/FBbt_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/FBbt_definition_citation is an annotation property that is drawn from FBbt	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/FBdv_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/FBdv_definition_citation is an annotation property that is drawn from FBdv	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/FMA_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/FMA_definition_citation is an annotation property that is drawn from FMA	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/ICD9_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/ICD9_definition_citation is an annotation property that is drawn from ICD9	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/IDOMAL_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/IDOMAL_definition_citation is an annotation property that is drawn from IDOMAL	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/IDO_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/IDO_definition_citation is an annotation property that is drawn from IDO	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/ISBN_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/ISBN_definition_citation is an annotation property that is drawn from ISBN	
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation	IAO:0000115	http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation is an annotation property that is drawn from NCI_Thesaurus	
+INFO	missing_superclass	http://www.ebi.ac.uk/efo/EFO_0000001	rdfs:subClassOf		

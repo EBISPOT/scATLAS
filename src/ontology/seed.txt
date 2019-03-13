@@ -1,0 +1,6 @@
+term
+http://purl.obolibrary.org/obo/scao/imports/cl_import.owl
+http://www.w3.org/2002/07/owl#Ontology
+http://www.w3.org/2002/07/owl#Class
+http://purl.obolibrary.org/obo/scao.owl
+http://purl.obolibrary.org/obo/SCAO_00000000

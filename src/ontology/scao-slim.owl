@@ -1,0 +1,1033 @@
+@prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xml:   <https://www.w3.org/TR/xml#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+obo:CL_0002034  a          owl:Class ;
+        rdfs:label         "long term hematopoietic stem cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000837  a          owl:Class ;
+        rdfs:label         "hematopoietic multipotent progenitor cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000624  a          owl:Class ;
+        rdfs:label         "CD4-positive, alpha-beta T cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000178  a      owl:Class ;
+        rdfs:label         "blood" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_6339  a      owl:Class ;
+        rdfs:label         "Heligmosomoides polygyrus" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000766  a          owl:Class ;
+        rdfs:label         "myeloid leukocyte" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0002966>
+        a                  owl:Class ;
+        rdfs:label         "pancreatic cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000613>
+        a                  owl:Class ;
+        rdfs:label         "myxoid liposarcoma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000400>
+        a                  owl:Class ;
+        rdfs:label         "diabetes mellitus" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000169  a          owl:Class ;
+        rdfs:label         "type B pancreatic cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_10088  a     owl:Class ;
+        rdfs:label         "Mus" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000127  a          owl:Class ;
+        rdfs:label         "astrocyte" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0001272>
+        a                  owl:Class ;
+        rdfs:label         "adult" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000684>
+        a                  owl:Class ;
+        rdfs:label         "respiratory system disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002334  a          owl:Class ;
+        rdfs:label         "preadipocyte" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000945  a          owl:Class ;
+        rdfs:label         "lymphocyte of B lineage" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:PATO_0000068  a        owl:Class ;
+        rdfs:label         "qualitative" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000540  a          owl:Class ;
+        rdfs:label         "neuron" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:PATO_0000047  a        owl:Class ;
+        rdfs:label         "sex" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0002372  a      owl:Class ;
+        rdfs:label         "tonsil" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CHEBI_24431  a         owl:Class ;
+        rdfs:label         "chemical entity" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000408>
+        a                  owl:Class ;
+        rdfs:label         "disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_7227  a      owl:Class ;
+        rdfs:label         "Drosophila melanogaster" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000763>
+        a                  owl:Class ;
+        rdfs:label         "viral disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000895  a          owl:Class ;
+        rdfs:label         "naive thymus-derived CD4-positive, alpha-beta T cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_2759  a      owl:Class ;
+        rdfs:label         "Eukaryota" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0004905>
+        a                  owl:Class ;
+        rdfs:label         "induced pluripotent stem cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002321  a          owl:Class ;
+        rdfs:label         "embryonic cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000235  a          owl:Class ;
+        rdfs:label         "macrophage" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0002530  a      owl:Class ;
+        rdfs:label         "gland" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002079  a          owl:Class ;
+        rdfs:label         "pancreatic ductal cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0005543>
+        a                  owl:Class ;
+        rdfs:label         "glioma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0005180>
+        a                  owl:Class ;
+        rdfs:label         "CD1 mus strain" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002563  a          owl:Class ;
+        rdfs:label         "intestinal epithelial cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002371  a          owl:Class ;
+        rdfs:label         "somatic cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000324>
+        a                  owl:Class ;
+        rdfs:label         "cell type" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0001663>
+        a                  owl:Class ;
+        rdfs:label         "prostate carcinoma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000310  a      owl:Class ;
+        rdfs:label         "breast" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0001642>
+        a                  owl:Class ;
+        rdfs:label         "lymphoid neoplasm" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000616>
+        a                  owl:Class ;
+        rdfs:label         "neoplasm" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000473  a      owl:Class ;
+        rdfs:label         "testis" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0002367  a      owl:Class ;
+        rdfs:label         "prostate gland" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0007795  a      owl:Class ;
+        rdfs:label         "ascitic fluid" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000151  a          owl:Class ;
+        rdfs:label         "secretory cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0004416>
+        a                  owl:Class ;
+        rdfs:label         "acid" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000311>
+        a                  owl:Class ;
+        rdfs:label         "cancer" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000787>
+        a                  owl:Class ;
+        rdfs:label         "animal component" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0003331>
+        a                  owl:Class ;
+        rdfs:label         "zebrafish component" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0006531>
+        a                  owl:Class ;
+        rdfs:label         "888-mel" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:PATO_0000384  a        owl:Class ;
+        rdfs:label         "male" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_6237  a      owl:Class ;
+        rdfs:label         "Caenorhabditis" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002032  a          owl:Class ;
+        rdfs:label         "hematopoietic oligopotent progenitor cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_1000158>
+        a                  owl:Class ;
+        rdfs:label         "Central Nervous System Neoplasm" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0005019  a          owl:Class ;
+        rdfs:label         "pancreatic epsilon cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000451  a          owl:Class ;
+        rdfs:label         "dendritic cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000319>
+        a                  owl:Class ;
+        rdfs:label         "cardiovascular disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000622  a          owl:Class ;
+        rdfs:label         "acinar cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0003047>
+        a                  owl:Class ;
+        rdfs:label         "hepatitis C infection" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000468  a      owl:Class ;
+        rdfs:label         "whole organism" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000864  a          owl:Class ;
+        rdfs:label         "tissue-resident macrophage" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000125  a          owl:Class ;
+        rdfs:label         "glial cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0004219>
+        a                  owl:Class ;
+        rdfs:label         "CD8-Positive T-Lymphocytes" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000519>
+        a                  owl:Class ;
+        rdfs:label         "glioblastoma multiforme" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:PATO_0001422  a        owl:Class ;
+        rdfs:label         "dead" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002453  a          owl:Class ;
+        rdfs:label         "oligodendrocyte precursor cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0001911  a      owl:Class ;
+        rdfs:label         "mammary gland" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000569>
+        a                  owl:Class ;
+        rdfs:label         "liposarcoma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000001>
+        a                  owl:Class ;
+        rdfs:label         "experimental factor" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000029  a      owl:Class ;
+        rdfs:label         "lymph node" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ifomis.org/bfo/1.1/snap#Disposition>
+        a                  owl:Class ;
+        rdfs:label         "disposition" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:HANCESTRO_0005  a      owl:Class ;
+        rdfs:label         "European" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0001264  a      owl:Class ;
+        rdfs:label         "pancreas" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0001378>
+        a                  owl:Class ;
+        rdfs:label         "multiple myeloma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000606>
+        a                  owl:Class ;
+        rdfs:label         "C57BL/6J" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000738  a          owl:Class ;
+        rdfs:label         "leukocyte" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_33154  a     owl:Class ;
+        rdfs:label         "Opisthokonta" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002248  a          owl:Class ;
+        rdfs:label         "pluripotent stem cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002419  a          owl:Class ;
+        rdfs:label         "mature T cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0003818>
+        a                  owl:Class ;
+        rdfs:label         "lung disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ifomis.org/bfo/1.1/span#ProcessualEntity>
+        a                  owl:Class ;
+        rdfs:label         "process" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0001063  a          owl:Class ;
+        rdfs:label         "neoplastic cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000016  a      owl:Class ;
+        rdfs:label         "endocrine pancreas" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000677>
+        a                  owl:Class ;
+        rdfs:label         "mental or behavioural disorder" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0007727>
+        a                  owl:Class ;
+        rdfs:label         "CAST/EiJ" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0003918>
+        a                  owl:Class ;
+        rdfs:label         "obstructive sleep apnea" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000635>
+        a                  owl:Class ;
+        rdfs:label         "organism part" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000272>
+        a                  owl:Class ;
+        rdfs:label         "astrocytoma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000087  a      owl:Class ;
+        rdfs:label         "inner cell mass" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000756>
+        a                  owl:Class ;
+        rdfs:label         "melanoma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0005741>
+        a                  owl:Class ;
+        rdfs:label         "infectious disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000955  a      owl:Class ;
+        rdfs:label         "brain" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:OBI_0000181  a         owl:Class ;
+        rdfs:label         "population" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000128  a          owl:Class ;
+        rdfs:label         "oligodendrocyte" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0001071  a          owl:Class ;
+        rdfs:label         "group 3 innate lymphoid cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:HANCESTRO_0568  a      owl:Class ;
+        rdfs:label         "African American" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0001008  a          owl:Class ;
+        rdfs:label         "Kit and Sca1-positive hematopoietic stem cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000057  a          owl:Class ;
+        rdfs:label         "fibroblast" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000946  a          owl:Class ;
+        rdfs:label         "antibody secreting cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:PATO_0000069  a        owl:Class ;
+        rdfs:label         "deviation(from_normal)" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000764>
+        a                  owl:Class ;
+        rdfs:label         "HIV infection" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:PATO_0000169  a        owl:Class ;
+        rdfs:label         "viability" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000136  a          owl:Class ;
+        rdfs:label         "fat cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_9606  a      owl:Class ;
+        rdfs:label         "Homo sapiens" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000115  a          owl:Class ;
+        rdfs:label         "endothelial cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_28901  a     owl:Class ;
+        rdfs:label         "Salmonella enterica" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:HANCESTRO_0008  a      owl:Class ;
+        rdfs:label         "Asian" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0004906>
+        a                  owl:Class ;
+        rdfs:label         "metastasis to lymph node" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:PATO_0000461  a        owl:Class ;
+        rdfs:label         "normal" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0003045>
+        a                  owl:Class ;
+        rdfs:label         "H9" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002322  a          owl:Class ;
+        rdfs:label         "embryonic stem cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000236  a          owl:Class ;
+        rdfs:label         "B cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000096>
+        a                  owl:Class ;
+        rdfs:label         "neoplasm of mature B-cells" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:OBI_0100026  a         owl:Class ;
+        rdfs:label         "organism" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0004472>
+        a                  owl:Class ;
+        rdfs:label         "C57BL/6" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0001360>
+        a                  owl:Class ;
+        rdfs:label         "type II diabetes mellitus" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_7215  a      owl:Class ;
+        rdfs:label         "Drosophila" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0005181>
+        a                  owl:Class ;
+        rdfs:label         "C57BL" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0007075>
+        a                  owl:Class ;
+        rdfs:label         "ES-E14" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_7165  a      owl:Class ;
+        rdfs:label         "Anopheles gambiae" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:HANCESTRO_0016  a      owl:Class ;
+        rdfs:label         "African American or Afro-Caribbean" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0005857>
+        a                  owl:Class ;
+        rdfs:label         "mouse embryo stage" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000791  a          owl:Class ;
+        rdfs:label         "mature alpha-beta T cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000010  a          owl:Class ;
+        rdfs:label         "cultured cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000557  a          owl:Class ;
+        rdfs:label         "granulocyte monocyte progenitor cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0002565>
+        a                  owl:Class ;
+        rdfs:label         "embryonic day 14.5" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000173  a          owl:Class ;
+        rdfs:label         "pancreatic D cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0002544>
+        a                  owl:Class ;
+        rdfs:label         "plasmodium parasite stage" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0002113  a      owl:Class ;
+        rdfs:label         "kidney" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000006  a      owl:Class ;
+        rdfs:label         "islet of Langerhans" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0004196>
+        a                  owl:Class ;
+        rdfs:label         "viral human hepatitis infection" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000081  a          owl:Class ;
+        rdfs:label         "blood cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ifomis.org/bfo/1.1/snap#Role>
+        a                  owl:Class ;
+        rdfs:label         "role" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0006314  a      owl:Class ;
+        rdfs:label         "bodily fluid" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000160  a          owl:Class ;
+        rdfs:label         "goblet cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000878  a          owl:Class ;
+        rdfs:label         "central nervous system macrophage" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002204  a          owl:Class ;
+        rdfs:label         "tuft cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_5821  a      owl:Class ;
+        rdfs:label         "Plasmodium berghei" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002033  a          owl:Class ;
+        rdfs:label         "short term hematopoietic stem cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0008568>
+        a                  owl:Class ;
+        rdfs:label         "Sleep Disorder" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000014  a      owl:Class ;
+        rdfs:label         "zone of skin" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000815  a          owl:Class ;
+        rdfs:label         "regulatory T cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ifomis.org/bfo/1.1/snap#SpecificallyDependentContinuant>
+        a                  owl:Class ;
+        rdfs:label         "material property" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000623  a          owl:Class ;
+        rdfs:label         "natural killer cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0002050  a      owl:Class ;
+        rdfs:label         "embryonic structure" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0009448>
+        a                  owl:Class ;
+        rdfs:label         "pulmonary fibrosis" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000786  a          owl:Class ;
+        rdfs:label         "plasma cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0007725>
+        a                  owl:Class ;
+        rdfs:label         "embryo stage" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:HANCESTRO_0487  a      owl:Class ;
+        rdfs:label         "Indian" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002275  a          owl:Class ;
+        rdfs:label         "pancreatic PP cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000723  a          owl:Class ;
+        rdfs:label         "somatic stem cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_10116  a     owl:Class ;
+        rdfs:label         "Rattus norvegicus" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000168  a          owl:Class ;
+        rdfs:label         "beta cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0001342>
+        a                  owl:Class ;
+        rdfs:label         "Wistar" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0012168  a      owl:Class ;
+        rdfs:label         "umbilical cord blood" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000510  a          owl:Class ;
+        rdfs:label         "paneth cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000712>
+        a                  owl:Class ;
+        rdfs:label         "stroke" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0002108  a      owl:Class ;
+        rdfs:label         "small intestine" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0001069  a          owl:Class ;
+        rdfs:label         "group 2 innate lymphoid cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0002660>
+        a                  owl:Class ;
+        rdfs:label         "primary cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0001271>
+        a                  owl:Class ;
+        rdfs:label         "mixed sex population" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000097  a          owl:Class ;
+        rdfs:label         "mast cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0002421  a      owl:Class ;
+        rdfs:label         "hippocampal formation" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_2  a         owl:Class ;
+        rdfs:label         "Bacteria" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000034  a          owl:Class ;
+        rdfs:label         "stem cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0002371  a      owl:Class ;
+        rdfs:label         "bone marrow" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000399>
+        a                  owl:Class ;
+        rdfs:label         "developmental stage" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002028  a          owl:Class ;
+        rdfs:label         "basophil mast progenitor cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000691>
+        a                  owl:Class ;
+        rdfs:label         "sarcoma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:HANCESTRO_0006  a      owl:Class ;
+        rdfs:label         "South Asian" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_6183  a      owl:Class ;
+        rdfs:label         "Schistosoma mansoni" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000084  a          owl:Class ;
+        rdfs:label         "T cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0002071>
+        a                  owl:Class ;
+        rdfs:label         "LNCAP" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000109  a      owl:Class ;
+        rdfs:label         "gastrula stage" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0006890>
+        a                  owl:Class ;
+        rdfs:label         "fibrosis" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000163  a          owl:Class ;
+        rdfs:label         "endocrine cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000839  a          owl:Class ;
+        rdfs:label         "myeloid lineage restricted progenitor cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:HANCESTRO_0014  a      owl:Class ;
+        rdfs:label         "Hispanic or Latin American" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000323>
+        a                  owl:Class ;
+        rdfs:label         "cell property" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000789  a          owl:Class ;
+        rdfs:label         "alpha-beta T cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0002563>
+        a                  owl:Class ;
+        rdfs:label         "embryonic day 12.5" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000586>
+        a                  owl:Class ;
+        rdfs:label         "mesenchymal stem cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000171  a          owl:Class ;
+        rdfs:label         "pancreatic A cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0004244>
+        a                  owl:Class ;
+        rdfs:label         "interstitial lung disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_10090  a     owl:Class ;
+        rdfs:label         "Mus musculus" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000956  a      owl:Class ;
+        rdfs:label         "cerebral cortex" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0004026  a      owl:Class ;
+        rdfs:label         "caudal ganglionic eminence" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000129  a          owl:Class ;
+        rdfs:label         "microglial cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000584  a          owl:Class ;
+        rdfs:label         "enterocyte" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000037  a          owl:Class ;
+        rdfs:label         "hematopoietic stem cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0002592>
+        a                  owl:Class ;
+        rdfs:label         "trophozoite" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000786>
+        a                  owl:Class ;
+        rdfs:label         "anatomy basic component" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000905  a          owl:Class ;
+        rdfs:label         "effector memory CD4-positive, alpha-beta T cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000542  a          owl:Class ;
+        rdfs:label         "lymphocyte" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0003877>
+        a                  owl:Class ;
+        rdfs:label         "sleep apnea" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:PATO_0000383  a        owl:Class ;
+        rdfs:label         "female" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000897  a          owl:Class ;
+        rdfs:label         "CD4-positive, alpha-beta memory T cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:ZFA_0000669  a         owl:Class ;
+        rdfs:label         "head kidney" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000492  a          owl:Class ;
+        rdfs:label         "CD4-positive helper T cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002031  a          owl:Class ;
+        rdfs:label         "hematopoietic lineage restricted progenitor cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0005537>
+        a                  owl:Class ;
+        rdfs:label         "triple-negative breast cancer" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0002508>
+        a                  owl:Class ;
+        rdfs:label         "Parkinson's disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002010  a          owl:Class ;
+        rdfs:label         "pre-conventional dendritic cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000922  a      owl:Class ;
+        rdfs:label         "embryo" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:EO_0007337  a          owl:Class ;
+        rdfs:label         "Nematoda" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000066  a          owl:Class ;
+        rdfs:label         "epithelial cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0002048  a      owl:Class ;
+        rdfs:label         "lung" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_33208  a     owl:Class ;
+        rdfs:label         "Metazoa" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CHEBI_2365  a          owl:Class ;
+        rdfs:label         "(+)-abscisic acid" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_7955  a      owl:Class ;
+        rdfs:label         "Danio rerio" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000467  a      owl:Class ;
+        rdfs:label         "anatomical system" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_10114  a     owl:Class ;
+        rdfs:label         "Rattus" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000700  a          owl:Class ;
+        rdfs:label         "dopaminergic neuron" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0001013  a      owl:Class ;
+        rdfs:label         "adipose tissue" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0002106  a      owl:Class ;
+        rdfs:label         "spleen" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0001067  a          owl:Class ;
+        rdfs:label         "group 1 innate lymphoid cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0001461>
+        a                  owl:Class ;
+        rdfs:label         "control" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000326>
+        a                  owl:Class ;
+        rdfs:label         "central nervous system cancer" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CHEBI_379896  a        owl:Class ;
+        rdfs:label         "methyltrienolone" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000305>
+        a                  owl:Class ;
+        rdfs:label         "breast carcinoma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000618>
+        a                  owl:Class ;
+        rdfs:label         "nervous system disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0000387  a          owl:Class ;
+        rdfs:label         "hemocyte" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ifomis.org/bfo/1.1/snap#MaterialEntity>
+        a                  owl:Class ;
+        rdfs:label         "material entity" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000589>
+        a                  owl:Class ;
+        rdfs:label         "metabolic disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:CL_0002410  a          owl:Class ;
+        rdfs:label         "pancreatic stellate cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:UBERON_0000070  a      owl:Class ;
+        rdfs:label         "pupal stage" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0009533>
+        a                  owl:Class ;
+        rdfs:label         "basal ganglia disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ifomis.org/bfo/1.1/snap#Quality>
+        a                  owl:Class ;
+        rdfs:label         "quality" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:HANCESTRO_0004  a      owl:Class ;
+        rdfs:label         "ancestry category" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000313>
+        a                  owl:Class ;
+        rdfs:label         "carcinoma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_1000294>
+        a                  owl:Class ;
+        rdfs:label         "HER2 Positive Breast Carcinoma" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0002958>
+        a                  owl:Class ;
+        rdfs:label         "experimental cell" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0005774>
+        a                  owl:Class ;
+        rdfs:label         "brain disease" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000768>
+        a                  owl:Class ;
+        rdfs:label         "idiopathic pulmonary fibrosis" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+<http://www.ebi.ac.uk/efo/EFO_0000200>
+        a                  owl:Class ;
+        rdfs:label         "plasma cell neoplasm" ;
+        oboInOwl:inSubset  "scao_slim" .
+
+obo:NCBITaxon_6239  a      owl:Class ;
+        rdfs:label         "Caenorhabditis elegans" ;
+        oboInOwl:inSubset  "scao_slim" .
